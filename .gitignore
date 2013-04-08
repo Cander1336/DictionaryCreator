@@ -5,5 +5,5 @@ bin/
 *.class
 
 # Eclipse project files
-.classpath
-.project
+#.classpath
+#.project
