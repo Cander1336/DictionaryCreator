@@ -5,12 +5,14 @@ public class Word {
 	private String syllables;
 	private int numberOfSyllables;
 	private String wordType;
+	private String fullWordType = "";
 	
 	public Word(String word, String syllables, String wordType){
 		this.word = word;
 		this.syllables = syllables;
 		this.wordType = wordType;
 		countSyllables();
+		setFullWordType();
 	}
 	
 	/**
@@ -23,6 +25,7 @@ public class Word {
 		syllables = text.substring(0, text.indexOf('|'));
 		wordType = text.substring(text.lastIndexOf('|')+1);
 		countSyllables();
+		setFullWordType();
 	}
 	
 	private void countSyllables(){
@@ -34,6 +37,80 @@ public class Word {
 			temp = temp.substring(pos+1);
 		}
 		this.numberOfSyllables = counter;
+	}
+	
+	private void setFullWordType(){
+		for(int i = 0; i < wordType.length(); i++){
+			fullWordType = fullWordType + translate(wordType.charAt(i));
+			if(i < wordType.length()-1){
+				// more words will be added -> add a dot
+				fullWordType = fullWordType + ".";
+			}
+		}
+	}
+	
+	private String translate(char letter){
+		if(letter == 'N'){
+			return "noun";
+		}
+		if(letter == 'p'){
+			return "plural noun";
+		}
+		if(letter == 'h'){
+			return "noun phrase";
+		}
+		if(letter == 'V'){
+			return "verb (usu participle)";
+		}
+		if(letter == 'G'){
+			return "gerund";
+		}
+		if(letter == 't'){
+			return "transitive verb";
+		}
+		if(letter == 'i'){
+			return "intransitive verb";
+		}
+		if(letter == 's'){
+			return "singular verb";
+		}
+		if(letter == 'T'){
+			return "past tense";
+		}
+		if(letter == 'A'){
+			return "positive adjective";
+		}
+		if(letter == 'c'){
+			return "comparative adjective";
+		}
+		if(letter == 'S'){
+			return "superlative adjective";
+		}
+		if(letter == 'v'){
+			return "adverb";
+		}
+		if(letter == 'C'){
+			return "conjunction";
+		}
+		if(letter == 'P'){
+			return "preposition";
+		}
+		if(letter == '!'){
+			return "interjection";
+		}
+		if(letter == 'r'){
+			return "pronoun";
+		}
+		if(letter == 'D'){
+			return "definite article";
+		}
+		if(letter == 'I'){
+			return "indefinite article";
+		}
+		if(letter == 'o'){
+			return "nominative";
+		}
+		return null;
 	}
 	
 	public String getWord(){
@@ -49,7 +126,7 @@ public class Word {
 	}
 	
 	public String toString(){
-		return word + "|" + syllables + "|" + wordType;
+		return word + "|" + syllables + "|" + fullWordType;
 	}
 	
 	public boolean equals(Word word){

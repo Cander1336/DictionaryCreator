@@ -7,7 +7,8 @@ import java.io.FileWriter;
 import java.io.IOException;
 import java.util.ArrayList;
 
-
+// syllables2.txt är en (manuell) ihopslagning av Syllables.txt och SyllablesUpdate.txt
+// syllables2.txt är alltså "default" filen
 
 public class UpdateSyllablesWithWordListFile {
 	
@@ -15,8 +16,8 @@ public class UpdateSyllablesWithWordListFile {
 		try {
 			double startTime = System.currentTimeMillis();
 			
-			File syllables1 = new File("Syllables4.txt");
-			File syllables2 = new File("syllables2.txt");
+			File syllablesRead = new File("syllables3.txt");
+			File syllablesWrite = new File("syllables4.txt");
 			File wordList = new File("SINGLE.txt");
 			File wordsLeft = new File("leftofsingle.txt");
 			
@@ -27,7 +28,7 @@ public class UpdateSyllablesWithWordListFile {
 			String syllables;
 			
 			BufferedReader readerSyllables;
-			BufferedWriter writerSyllables = new BufferedWriter(new FileWriter(syllables2));
+			BufferedWriter writerSyllables = new BufferedWriter(new FileWriter(syllablesWrite));
 			BufferedReader readerWordList = new BufferedReader(new FileReader(wordList));
 			BufferedWriter writerWordsLeft = new BufferedWriter(new FileWriter(wordsLeft));
 			
@@ -43,6 +44,7 @@ public class UpdateSyllablesWithWordListFile {
 			boolean removeLastLetter = false;
 			boolean endsWithABLE;
 			boolean endsWithNESS;
+			boolean endsWithILY;
 			boolean endsWithLY;
 			boolean endsWithER;
 			boolean endsWithEST;
@@ -82,6 +84,7 @@ public class UpdateSyllablesWithWordListFile {
 				endsWithING = false;
 				endsWithABLE = false;
 				endsWithNESS = false;
+				endsWithILY = false;
 				endsWithLY = false;
 				endsWithER = false;
 				endsWithEST = false;
@@ -99,7 +102,40 @@ public class UpdateSyllablesWithWordListFile {
 				startsWithNON = false;
 				startsWithRE = false;
 				word = word.toLowerCase(); // just in case
-				if(word.length() > 1 && word.charAt(word.length()-1) == 's'){ // plural form
+				if(word.length() > 1 && word.charAt(word.length()-1) == 'd' && word.charAt(word.length()-2) == 'e'){
+					endsWithED = true;
+				}
+				else if(word.length() > 2 && word.charAt(word.length()-1) == 'g' && word.charAt(word.length()-2) == 'n' && word.charAt(word.length()-3) == 'i'){
+					endsWithING = true;
+				}
+				else if(word.length() > 3 && word.charAt(word.length()-4) == 'a' && word.charAt(word.length()-3) == 'b' && word.charAt(word.length()-2) == 'l' && word.charAt(word.length()-1) == 'e'){
+					endsWithABLE = true;
+				}
+				else if(word.length() > 3 && word.charAt(word.length()-4) == 'n' && word.charAt(word.length()-3) == 'e' && word.charAt(word.length()-2) == 's' && word.charAt(word.length()-1) == 's'){
+					endsWithNESS = true;
+				}
+				else if(word.length() > 2 && word.charAt(word.length()-3) == 'i' && word.charAt(word.length()-2) == 'l' && word.charAt(word.length()-1) == 'y'){
+					endsWithILY = true;
+				}
+				else if(word.length() > 1 && word.charAt(word.length()-2) == 'l' && word.charAt(word.length()-1) == 'y'){
+					endsWithLY = true;
+				}
+				else if(word.length() > 1 && word.charAt(word.length()-2) == 'e' && word.charAt(word.length()-1) == 'r'){
+					endsWithER = true;
+				}
+				else if(word.length() > 2 && word.charAt(word.length()-3) == 'e' && word.charAt(word.length()-2) == 's' && word.charAt(word.length()-1) == 't'){
+					endsWithEST = true;
+				}
+				else if(word.length() > 6 && word.charAt(word.length()-5) == 'a' && word.charAt(word.length()-5) == 'b' && word.charAt(word.length()-5) == 'i' && word.charAt(word.length()-4) == 'l' && word.charAt(word.length()-3) == 'i' && word.charAt(word.length()-2) == 't' && word.charAt(word.length()-1) == 'y'){
+					endsWithABILITY = true;
+				}
+				else if(word.length() > 3 && word.charAt(word.length()-4) == 'l' && word.charAt(word.length()-3) == 'e' && word.charAt(word.length()-2) == 's' && word.charAt(word.length()-1) == 's'){
+					endsWithLESS = true;
+				}
+				else if(word.length() > 2 && word.charAt(word.length()-3) == 'i' && word.charAt(word.length()-2) == 's' && word.charAt(word.length()-1) == 'h'){
+					endsWithISH = true;
+				}
+				else if(word.length() > 1 && word.charAt(word.length()-1) == 's'){ // plural form
 					if(word.charAt(word.length()-2) == 'e'){
 						endsWithES = true;						
 					}
@@ -108,68 +144,38 @@ public class UpdateSyllablesWithWordListFile {
 					}
 					checkPlural = true;
 				}
-				if(word.length() > 1 && word.charAt(word.length()-1) == 'd' && word.charAt(word.length()-2) == 'e'){
-					endsWithED = true;
-				}
-				if(word.length() > 2 && word.charAt(word.length()-1) == 'g' && word.charAt(word.length()-2) == 'n' && word.charAt(word.length()-3) == 'i'){
-					endsWithING = true;
-				}
-				if(word.length() > 3 && word.charAt(word.length()-4) == 'a' && word.charAt(word.length()-3) == 'b' && word.charAt(word.length()-2) == 'l' && word.charAt(word.length()-1) == 'e'){
-					endsWithABLE = true;
-				}
-				if(word.length() > 3 && word.charAt(word.length()-4) == 'n' && word.charAt(word.length()-3) == 'e' && word.charAt(word.length()-2) == 's' && word.charAt(word.length()-1) == 's'){
-					endsWithNESS = true;
-				}
-				if(word.length() > 1 && word.charAt(word.length()-2) == 'l' && word.charAt(word.length()-1) == 'y'){
-					endsWithLY = true;
-				}
-				if(word.length() > 1 && word.charAt(word.length()-2) == 'e' && word.charAt(word.length()-1) == 'r'){
-					endsWithER = true;
-				}
-				if(word.length() > 2 && word.charAt(word.length()-3) == 'e' && word.charAt(word.length()-2) == 's' && word.charAt(word.length()-1) == 't'){
-					endsWithEST = true;
-				}
-				if(word.length() > 6 && word.charAt(word.length()-5) == 'a' && word.charAt(word.length()-5) == 'b' && word.charAt(word.length()-5) == 'i' && word.charAt(word.length()-4) == 'l' && word.charAt(word.length()-3) == 'i' && word.charAt(word.length()-2) == 't' && word.charAt(word.length()-1) == 'y'){
-					endsWithABILITY = true;
-				}
-				if(word.length() > 3 && word.charAt(word.length()-4) == 'l' && word.charAt(word.length()-3) == 'e' && word.charAt(word.length()-2) == 's' && word.charAt(word.length()-1) == 's'){
-					endsWithLESS = true;
-				}
-				if(word.length() > 2 && word.charAt(word.length()-3) == 'i' && word.charAt(word.length()-2) == 's' && word.charAt(word.length()-1) == 'h'){
-					endsWithISH = true;
-				}
 				
 				// Starts with
 				if(word.length() > 2 && word.charAt(0) == 'm' && word.charAt(1) == 'i' && word.charAt(2) == 's'){
 					startsWithMIS = true;
 				}
-				if(word.length() > 3 && word.charAt(0) == 'd' && word.charAt(1) == 'e' && word.charAt(2) == 'm' && word.charAt(3) == 'i'){
+				else if(word.length() > 3 && word.charAt(0) == 'd' && word.charAt(1) == 'e' && word.charAt(2) == 'm' && word.charAt(3) == 'i'){
 					startsWithDEMI = true;
 				}
-				if(word.length() > 2 && word.charAt(0) == 'd' && word.charAt(1) == 'i' && word.charAt(2) == 's'){
+				else if(word.length() > 2 && word.charAt(0) == 'd' && word.charAt(1) == 'i' && word.charAt(2) == 's'){
 					startsWithDIS = true;
 				}
-				if(word.length() > 1 && word.charAt(0) == 'd' && word.charAt(1) == 'e'){
+				else if(word.length() > 1 && word.charAt(0) == 'd' && word.charAt(1) == 'e'){
 					startsWithDE = true;
 				}
-				if(word.length() > 2 && word.charAt(0) == 'p' && word.charAt(1) == 'r' && word.charAt(2) == 'e'){
+				else if(word.length() > 2 && word.charAt(0) == 'p' && word.charAt(1) == 'r' && word.charAt(2) == 'e'){
 					startsWithPRE = true;
 				}
-				if(word.length() > 2 && word.charAt(0) == 'p' && word.charAt(1) == 'r' && word.charAt(2) == 'o'){
+				else if(word.length() > 2 && word.charAt(0) == 'p' && word.charAt(1) == 'r' && word.charAt(2) == 'o'){
 					startsWithPRO = true;
 				}
-				if(word.length() > 3 && word.charAt(0) == 'a' && word.charAt(1) == 'n' && word.charAt(2) == 't' && word.charAt(3) == 'i'){
+				else if(word.length() > 3 && word.charAt(0) == 'a' && word.charAt(1) == 'n' && word.charAt(2) == 't' && word.charAt(3) == 'i'){
 					startsWithANTI = true;
 				}
-				if(word.length() > 2 && word.charAt(0) == 'n' && word.charAt(1) == 'o' && word.charAt(2) == 'n'){
+				else if(word.length() > 2 && word.charAt(0) == 'n' && word.charAt(1) == 'o' && word.charAt(2) == 'n'){
 					startsWithNON = true;
 				}
-				if(word.length() > 1 && word.charAt(0) == 'r' && word.charAt(1) == 'e'){
+				else if(word.length() > 1 && word.charAt(0) == 'r' && word.charAt(1) == 'e'){
 					startsWithRE = true;
 				}
 				
 				// försök att hitta ordet i Syllables ordlistan
-				readerSyllables = new BufferedReader(new FileReader(syllables1));
+				readerSyllables = new BufferedReader(new FileReader(syllablesRead));
 				
 				
 				while ((textSyllables = readerSyllables.readLine()) != null) {
@@ -203,6 +209,15 @@ public class UpdateSyllablesWithWordListFile {
 					}
 					else if(endsWithNESS && word.length() > 4 && word.substring(0, word.length()-4).equalsIgnoreCase(textSyllables.substring(0,textSyllables.indexOf("=")))){
 						tempWord = textSyllables;
+					}
+					else if(endsWithILY && word.length() > 3 && word.substring(0, word.length()-3).equalsIgnoreCase(textSyllables.substring(0,textSyllables.indexOf("=")))){
+						tempWord = textSyllables;
+						removeLastLetter = false;
+					}
+					else if(endsWithILY && word.length() > 3 && word.substring(0, word.length()-3).equalsIgnoreCase(textSyllables.substring(0,textSyllables.indexOf("=")-1))){
+						// t.ex. floppy -> floppily
+						tempWord = textSyllables;
+						removeLastLetter = true;
 					}
 					else if(endsWithLY && word.length() > 2 && word.substring(0, word.length()-2).equalsIgnoreCase(textSyllables.substring(0,textSyllables.indexOf("=")))){
 						tempWord = textSyllables;
@@ -326,6 +341,13 @@ public class UpdateSyllablesWithWordListFile {
 						syllables = tempWord.substring(tempWord.indexOf("=")+1) + "·ness";
 						words.add(new SyllableWord(word, syllables));
 					}
+					else if(endsWithILY){ 
+						if(removeLastLetter){// removes the last letter and adds i·ly at the end. t.ex. flop·py -> flop·pi·ly
+							syllables = tempWord.substring(tempWord.indexOf("=")+1, tempWord.length()-1) + "i·ly";
+							words.add(new SyllableWord(word, syllables));
+						}
+						// must remove the last letter?
+					}
 					else if(endsWithLY){ // adds ly at the end.
 						syllables = tempWord.substring(tempWord.indexOf("=")+1) + "·ly";
 						words.add(new SyllableWord(word, syllables));
@@ -345,8 +367,8 @@ public class UpdateSyllablesWithWordListFile {
 							syllables = tempWord.substring(tempWord.indexOf("=")+1, tempWord.length()-1) + "·est";
 							words.add(new SyllableWord(word, syllables));
 						}
-						else{ // adds er at the end. t.ex. red -> red·er
-							syllables = tempWord.substring(tempWord.indexOf("=")+1) + "·er";
+						else{ // adds est at the end. t.ex. red -> red·est
+							syllables = tempWord.substring(tempWord.indexOf("=")+1) + "·est";
 							words.add(new SyllableWord(word, syllables));
 						}
 					}

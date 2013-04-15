@@ -8,16 +8,15 @@ import java.io.FileWriter;
 import java.io.IOException;
 import java.util.ArrayList;
 
-
 public class Creator {
 	
 	public static void main(String[] args){
 		try {
 			double startTime = System.currentTimeMillis();
 			
-			File syllablesFile = new File("syllables2.txt");
+			File syllablesFile = new File("syllables4.txt");
 			File partOfSpeech = new File("partofspeech3.txt");
-			File dictionaryAlfabetical = new File("dictionary-alfabetical.txt");
+			File dictionaryAlfabetical = new File("dictionary-full.txt");
 			
 			ArrayList<Word> words = new ArrayList<Word>();
 			
