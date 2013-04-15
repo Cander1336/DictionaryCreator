@@ -102,12 +102,12 @@ tinkle
 tootle
 trip
 whirl
-Goofy
-Grumpy
-Happy
+goofy
+grumpy
+happy
 Mr Wibbler
 custard
-Droopy
+droopy
 slime
 jam
 jelly
