@@ -8,6 +8,9 @@ import java.io.FileWriter;
 import java.io.IOException;
 import java.util.ArrayList;
 
+
+//TODO The class Word changes dubbel dot ('··') to a single dot, but this is not tested! 
+
 public class Creator {
 	
 	public static void main(String[] args){
