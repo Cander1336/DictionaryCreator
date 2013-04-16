@@ -14,6 +14,7 @@ public class Word {
 			if(temp.charAt(pos+1) == '·'){
 				syllables = syllables.substring(0, pos+1) + syllables.substring(pos+2);
 				temp = syllables;
+				continue;
 			}
 			temp = temp.substring(pos+1);
 		}
