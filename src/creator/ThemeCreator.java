@@ -11,7 +11,7 @@ public class ThemeCreator {
 
 		double startTime = System.currentTimeMillis();	
 
-		Scanner readerDic = new Scanner(new File("dictionary-alfabetical.txt"));
+		Scanner readerDic = new Scanner(new File("dictionary-full.txt"));
 		Scanner readerTheme = new Scanner(new File("theme_silly.txt"));
 		BufferedWriter writer = new BufferedWriter(new FileWriter(new File("theme_silly_processed.txt")));
 		
@@ -38,7 +38,7 @@ public class ThemeCreator {
 			}
 			else
 				foundMatch = false;
-			readerDic = new Scanner(new File("dictionary-alfabetical.txt"));
+			readerDic = new Scanner(new File("dictionary-full.txt"));
 		}
 			
 		readerDic.close();

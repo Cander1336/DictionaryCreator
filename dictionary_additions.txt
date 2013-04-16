@@ -1,0 +1,154 @@
+2moro|to·mor·row|noun.adverb
+2nite|to·night|noun.adverb
+BRB|be·right·back|interjection
+BTW|by·the·way|interjection
+B4N|bye·for·now|interjection
+BCNU|be·seeing·you|interjection
+BFF|b·f·f|noun
+CYA|see·ya|interjection
+DBEYR|don't·believe·eve·ry·thing·you·read|interjection
+DILLIGAS|dill·i·gas|interjection
+FWIW|for·what·it's·worth|interjection
+GR8|great|interjection
+ILY|i·love·you|interjection
+IMHO|i·mho|interjection
+IRL|in·real·life|preposition
+JK|joke|noun.interjection
+L8R|lat·er|interjection
+LMAO|le·mao|interjection
+LOL|lol|interjection
+LOLZ|lols|interjection
+LYLAS|love·you·like·a·sis·ter|interjection
+MHOTY|my·hat·is·off·to·you|interjection
+NIMBY|not·in·my·back·yard|interjection
+NP|no·prob·lem|interjection
+NUB|nubb|noun.interjection
+OIC|oh·i·see|interjection
+OMG|oh·my·god|interjection
+OT|off·top·ic|positive adjective.interjection
+POV|point·of·view|noun
+RBTL|read·be·tween·the·lines|interjection
+RT|re·tweet|transitive verb
+THX|thanks|interjection
+SH|shit·hap·pens|interjection
+SITD|still·in·the·dark|interjection
+SOL|shit·out·of·luck|interjection
+STBY|sucks·to·be·you|interjection
+SWAK|seal·ed·with·a·kiss|interjection
+RTM|r·t·m|interjection
+RTFM|r·t·f·m|interjection
+TMI|t·m·iv|interjection
+TTYL|talk·to·you·lat·er|interjection
+TYVM|thank·you·very·much|interjection
+VBG|very·big·grin|interjection
+WEG|wick·ed·e·vil·grin|interjection
+WTF|what·the·fuck|interjection
+WYWH|wish·you·were·here|interjection
+XOXO|hugs·and·kiss·es|interjection
+CBA|c·b·a|interjection
+143|i·love·you|interjection
+2DAY|to·day|noun.adverb.positive adjective
+4EAE|for·e·ver·and·e·ver|interjection
+ADN|an·y·day·now|interjection
+AFAIK|as·far·as·i·know|interjection
+AFK|a·way·from·key·board|interjection.preposition
+ATM|at·the·mo·ment|interjection
+BC|be·cause|conjunction
+B4|be·fore|preposition
+BF|boy·friend|noun
+GF|girl·friend|noun
+DWBH|don't·wor·ry·be·hap·py|interjection
+F2F|face·to·face|adverb
+P2P|peer·to·peer|adverb
+FB|face·book|noun
+FTL|for·the·lose|interjection
+FTW|for·the·win|interjection
+FWB|friends·with·be·ne·fits|positive adjective
+FYEO|for·your·eyes·on·ly|interjection
+FYI|for·your·in·for·ma·tion|interjection
+GLHF|good·luck·have·fun|interjection
+HAK|hugs·and·kiss·es|interjection
+HAND|have·a·nice·day|interjection
+IDK|i·don't·know|interjection
+IMO|i·mo|interjection
+FFS|for·fuck·sake|interjection
+J4F|just·for·fun|interjection
+kk|o·k|interjection
+k|o·k|interjection
+oks|o·ks|interjection
+LMK|let·me·know|interjection
+NVM|ne·ver·mind|interjection
+NMU|not·much·you|interjection
+ORLY|oh·real·ly|interjection
+PLS|please|interjection
+PLZ|please|interjection
+PPL|peo·ple|plural noun
+PTB|please·text·back|interjection
+QQ|cry·ing|interjection
+RL|real·life|noun
+ROFL|roll·ing·on·the·floor·laugh·ing|interjection
+SRSLY|se·ri·ous·ly|interjection
+TIA|thanks·in·ad·vance|interjection
+TMB|tweet·me·back|interjection
+TMRW|to·mor·row|noun.adverb
+TY|thank·you|interjection
+WTH|what·the·heck|interjection
+YW|you're·welcome|interjection
+ZOMG|oh·my·god|interjection
+STFU|shut·the·fuck·up|interjection
+noob|noob|interjection.noun
+n00b|noob|interjection.noun
+ATK|at·tack|noun.interjection
+TGIF|thank·god·it's·fri·day|interjection
+1337|leet|positive adjective
+pwned|pawn·ed|positive adjective
+woot|what|interjection
+w00t|what|interjection
+don't|don't|verb (usu participle)
+dont|don't|verb (usu participle)
+won't|won't|verb (usu participle)
+can't|can't|verb (usu participle)
+cannot|can·not|verb (usu participle)
+let's|let's|verb (usu participle)
+lets|let's|verb (usu participle)
+shouldn't|should·n't|verb (usu participle)
+shouldnt|should·n't|verb (usu participle)
+couldn't|could·n't|verb (usu participle)
+couldnt|could·n't|verb (usu participle)
+mustn't|must·n't|verb (usu participle)
+mustnt|must·n't|verb (usu participle)
+haven't|have·n't|verb (usu participle)
+havent|have·n't|verb (usu participle)
+hasn't|has·n't|verb (usu participle)
+hasnt|has·n't|verb (usu participle)
+i've|i·have|pronoun + verb (usu participle).singular verb
+you've|you·have|pronoun + verb (usu participle)
+we've|we·have|pronoun + verb (usu participle)
+they've|they·have|pronoun + verb (usu participle)
+i'd|i·had|pronoun + verb (usu participle).singular verb
+you'd|you·had|pronoun + verb (usu participle)
+he'd|he·had|pronoun + verb (usu participle).singular verb
+she'd|she·had|pronoun + verb (usu participle).singular verb
+it'd|it·had|pronoun + verb (usu participle).singular verb
+we'd|we·had|pronoun + verb (usu participle)
+they'd|they·had|pronoun + verb (usu participle)
+im|i·am|pronoun + verb (usu participle).singular verb
+i'm|i·am|pronoun + verb (usu participle).singular verb
+you're|you·are|pronoun + verb (usu participle)
+he's|he·is|pronoun + verb (usu participle).singular verb
+she's|she·is|pronoun + verb (usu participle).singular verb
+it's|it·is|pronoun + verb (usu participle).singular verb
+we're|we·are|pronoun + verb (usu participle)
+they're|they·are|pronoun + verb (usu participle)
+i'll|i·will|pronoun + verb (usu participle).singular verb
+you'll|you·will|pronoun + verb (usu participle)
+he'll|he·will|pronoun + verb (usu participle).singular verb
+she'll|she·will|pronoun + verb (usu participle).singular verb
+it'll|it·will|pronoun + verb (usu participle).singular verb
+we'll|we·will|pronoun + verb (usu participle)
+they'll|they·will|pronoun + verb (usu participle)
+I|i|pronoun
+he|he|pronoun
+it|it|pronoun
+we|we|pronoun
+do|do|verb (usu participle)

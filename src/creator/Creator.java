@@ -19,7 +19,7 @@ public class Creator {
 			
 			File syllablesFile = new File("syllables4.txt");
 			File partOfSpeech = new File("partofspeech3.txt");
-			File dictionaryAlfabetical = new File("dictionary-full.txt");
+			File dictionaryAlfabetical = new File("dictionary-generated.txt");
 			
 			ArrayList<Word> words = new ArrayList<Word>();
 			
