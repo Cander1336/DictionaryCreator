@@ -8,6 +8,15 @@ public class Word {
 	private String fullWordType = "";
 	
 	public Word(String word, String syllables, String wordType){
+		String temp = syllables;
+		int pos;
+		while((pos = temp.indexOf('·')) != -1){
+			if(temp.charAt(pos+1) == '·'){
+				syllables = syllables.substring(0, pos+1) + syllables.substring(pos+2);
+				temp = syllables;
+			}
+			temp = temp.substring(pos+1);
+		}
 		this.word = word;
 		this.syllables = syllables;
 		this.wordType = wordType;
