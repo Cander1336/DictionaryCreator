@@ -2,6 +2,6 @@ how to create dictionary-full.txt
 
 1. run Creator.java, generates dictionary-generated.txt
 2. run Merge.java with dictionary-addtions.txt & dictionary-generated.txt as input and generate dictionary-full.txt
-3. run ThemeChecker.java with all diffrent theme input files, generates theme_<theme>_generated.txt
+3. run ThemeChecker.java with all diffrent theme input files, generates theme_<theme>_generated.txt (use DoubletRemover on theme files first if necessary)
 4. manual check and edit the theme_<theme>_generated.txt files and resave them to theme_<theme>_manual.txt
-5. run Merge.java (multiple times) with theme_<theme>_manual.txt and generate updated version of dictionary-full.txt
+5. run Merge.java (multiple times) with theme_<theme>_manual.txt and generate updated version of dictionary-full.txt (backup current dictionary-full first)

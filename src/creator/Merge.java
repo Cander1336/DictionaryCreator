@@ -20,8 +20,32 @@ public class Merge {
 //		final String additionWordFile = "dictionary-additions.txt";	
 		
 		//merge wordlist with the theme "silly"
+//		final String orignalWordFile = "dictionary-full.txt";
+//		final String additionWordFile = "theme_silly_manual.txt";
+		
+		//merge wordlist with the theme "body"
+		//final String orignalWordFile = "dictionary-full.txt";
+		//final String additionWordFile = "theme_body_manual.txt";
+		
+		//merge wordlist with the theme "time"
+		//final String orignalWordFile = "dictionary-full.txt";
+		//final String additionWordFile = "theme_time_manual.txt";
+		
+		//merge wordlist with the theme "stockholm"
+		//final String orignalWordFile = "dictionary-full.txt";
+		//final String additionWordFile = "theme_stockholm_manual.txt";
+		
+		//merge wordlist with the theme "art"
+		//final String orignalWordFile = "dictionary-full.txt";
+		//final String additionWordFile = "theme_art_manual.txt";
+		
+		//merge wordlist with the theme "emotion"
+		//final String orignalWordFile = "dictionary-full.txt";
+		//final String additionWordFile = "theme_emotion_manual.txt";
+		
+		//merge wordlist with the theme "all"
 		final String orignalWordFile = "dictionary-full.txt";
-		final String additionWordFile = "theme_silly_manual.txt";
+		final String additionWordFile = "theme_all_manual.txt";
 		
 		Scanner readerOrginal = new Scanner(new File(orignalWordFile));
 		ArrayList<String> orginal = new ArrayList<String>();

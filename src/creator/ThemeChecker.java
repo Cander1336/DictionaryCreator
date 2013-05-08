@@ -17,8 +17,12 @@ public class ThemeChecker {
 		final String dictionary = "dictionary-full.txt";
 		
 		//theme_silly
-		final String themeWordList = "theme_silly.txt";
-		final String outputWordFile = "theme_silly_generated.txt";
+		//final String themeWordList = "theme_silly.txt";
+		//final String outputWordFile = "theme_silly_generated.txt";
+		
+		//theme_body
+		final String themeWordList = "theme_all.txt";
+		final String outputWordFile = "theme_all_generated.txt";	
 		
 		Scanner readerDic = new Scanner(new File(dictionary));
 		Scanner readerTheme = new Scanner(new File(themeWordList));
@@ -35,7 +39,7 @@ public class ThemeChecker {
 		while (readerTheme.hasNextLine()) {
 			themeLine = readerTheme.nextLine();		
 			for (String dicLine : dic)
-				if (themeLine.equalsIgnoreCase(dicLine.substring(0, dicLine.indexOf("|")))) { //word was found it dictionary, use that one
+				if (themeLine.equalsIgnoreCase(dicLine.substring(0, dicLine.indexOf("|")))) { //word was found in dictionary, use that one
 					writer.write(dicLine);
 					writer.newLine();
 					continue themeLoop;

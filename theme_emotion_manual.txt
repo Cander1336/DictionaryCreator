@@ -1,0 +1,156 @@
+emotion|e·mo·tion|noun
+affection|af·fec·tion|noun
+anger|an·ger|noun.transitive verb.verb (usu participle).comparative adjective
+angst|angst|noun
+anguish|an·guish|noun.verb (usu participle)
+annoyance|an·noy·ance|noun
+anxiety|anx·i·e·ty|noun
+apathy|ap·a·thy|noun
+arousal|a·rous·al|noun
+awe|awe|noun.transitive verb.verb (usu participle)
+boredom|bore·dom|noun
+contempt|con·tempt|noun
+contentment|con·tent·ment|noun
+courage|cour·age|noun
+curiosity|cu·ri·os·i·ty|noun
+depression|de·pres·sion|noun
+desire|de·sire|transitive verb.noun.verb (usu participle)
+despair|des·pair|intransitive verb.transitive verb.noun.verb (usu participle)
+disappointment|dis·ap·point·ment|noun
+disgust|dis·gust|transitive verb.noun.verb (usu participle)
+distrust|dis·trust|verb (usu participle).noun
+dread|dread|transitive verb.noun.verb (usu participle).positive adjective
+ecstasy|ec·sta·sy|noun
+embarrassment|em·bar·rass·ment|noun
+envy|en·vy|noun.verb (usu participle)
+euphoria|eu·pho·ri·a|noun
+excitement|ex·cite·ment|noun
+fear|fear|noun
+frustration|frus·tra·tion|noun
+gratitude|grat·i·tude|noun
+grief|grief|noun
+guilt|guilt|noun
+happiness|hap·pi·ness|noun
+hatred|ha·tred|noun.past tense
+hope|hope|noun
+horror|hor·ror|noun
+hostility|hos·til·i·ty|noun
+hurt|hurt|verb (usu participle).intransitive verb.noun.positive adjective
+hysteria|hys·te·ri·a|noun
+indifference|in·dif·fer·ence|noun
+interest|in·ter·est|noun.transitive verb.verb (usu participle).superlative adjective
+jealousy|jeal·ous·y|noun
+joy|joy|noun
+loathing|loath·ing|noun.gerund
+loneliness|lone·li·ness|noun
+love|love|noun
+lust|lust|noun
+outrage|out·rage|noun.transitive verb.verb (usu participle)
+panic|pan·ic|positive adjective
+passion|pas·sion|noun
+pity|pit·y|noun.verb (usu participle)
+pleasure|pleas·ure|noun.verb (usu participle)
+pride|pride|noun
+rage|rage|noun.intransitive verb.verb (usu participle)
+regret|re·gret|verb (usu participle).noun
+relief|re·lief|noun
+remorse|re·morse|noun
+sadness|sad·ness|noun
+satisfaction|sat·is·fac·tion|noun
+shame|shame|noun.transitive verb.verb (usu participle)
+shock|shock|verb (usu participle).noun.transitive verb.positive adjective
+shyness|shy·ness|noun
+sorrow|sor·row|noun.intransitive verb.verb (usu participle)
+suffering|suf·fer·ing|noun.positive adjective.gerund
+surprise|sur·prise|transitive verb.noun.verb (usu participle)
+terror|ter·ror|noun
+trust|trust|noun
+wonder|won·der|noun.comparative adjective
+worry|wor·ry|intransitive verb.transitive verb.noun.verb (usu participle)
+zeal|zeal|noun
+zest|zest|noun.transitive verb.verb (usu participle).superlative adjective
+subjective|sub·jec·tive|positive adjective.noun
+conscious|con·scious|positive adjective
+experience|ex·pe·ri·ence|noun.transitive verb.verb (usu participle)
+expressions|ex·pres·sions|noun.plural noun
+biological|bi·o·log·i·cal|positive adjective.noun
+reactions|re·ac·tions|noun.plural noun
+mental|men·tal|positive adjective
+mood|mood|noun
+temperament|tem·per·a·ment|noun
+personality|per·son·al·i·ty|noun
+disposition|dis·po·si·tion|noun
+motivation|mo·ti·va·tion|noun
+hormones|hor·mones|noun.plural noun
+neurotransmitter|neu·ro·trans·mit·ter|noun
+dopamine|do·pa·mine|noun
+noradrenaline|nor·a·dren·a·line|noun
+serotonin|ser·o·to·nin|noun
+oxytocin|ox·y·to·cin|noun
+cortisol|cor·ti·sol|noun
+positive|pos·i·tive|positive adjective.noun
+negative|neg·a·tive|positive adjective.noun.transitive verb.verb (usu participle)
+emotions|e·mo·tions|noun.plural noun
+cognition|cog·ni·tion|noun
+response|re·sponse|noun
+threat|threat|noun.verb (usu participle)
+danger|dan·ger|noun.comparative adjective
+heartbeat|heart·beat|noun
+breathing|breath·ing|noun.positive adjective.gerund
+sweating|sweat·ing|noun.positive adjective.gerund
+stimulate|stim·u·late|transitive verb.noun.intransitive verb.verb (usu participle)
+stimulating|stim·u·lat·ing|positive adjective.gerund
+evolution|ev·o·lu·tion|noun
+intense|in·tense|positive adjective
+affect|af·fect|verb (usu participle).transitive verb.noun
+feelings|feel·ings|noun
+relationship|re·la·tion·ship|noun
+relationships|re·la·tion·ships|noun.plural noun
+influences|in·flu·ences|noun.transitive verb.verb (usu participle).plural noun.singular verb
+self-esteem|self-es·teem|noun
+essential|es·sen·tial|positive adjective.noun
+favor|fa·vor|noun.transitive verb.verb (usu participle)
+cry|cry|verb (usu participle).intransitive verb.transitive verb.noun
+angry|an·gry|positive adjective
+afraid|a·fraid|positive adjective
+tremble|trem·ble|intransitive verb.noun.verb (usu participle)
+fearful|fear·ful|positive adjective
+stressed|stress·ed|positive adjective.past tense
+pain|pain|noun
+hunger|hun·ger|noun.comparative adjective
+fatigue|fa·tigue|noun.verb (usu participle).positive adjective
+toughness|tough·ness|noun
+shy|shy|positive adjective.verb (usu participle).noun.intransitive verb
+dominance|dom·i·nance|noun
+stress|stress|noun.transitive verb.verb (usu participle)
+relation|re·la·tion|noun
+social|so·cial|positive adjective.noun
+memory|mem·o·ry|noun
+consciousness|con·scious·ness|noun
+dangerous|dan·ger·ous|positive adjective
+romantic|ro·man·tic|positive adjective.noun
+ambivalence|am·biv·a·lence|noun
+wrath|wrath|noun
+compassion|com·pas·sion|noun
+benevolence|be·nev·o·lence|noun
+sympathy|sym·pa·thy|noun
+prudence|pru·dence|noun
+fortitude|for·ti·tude|noun
+temperance|tem·per·ance|noun
+beliefs|be·liefs|noun.plural noun
+rational|ra·tion·al|positive adjective
+irrational|ir·ra·tion·al|positive adjective
+desires|de·sires|transitive verb.noun.verb (usu participle).plural noun.singular verb
+soul|soul|noun
+destructive|de·struc·tive|positive adjective
+erotic|e·rot·ic|positive adjective.noun
+murderous|mur·der·ous|positive adjective
+insanity|in·san·i·ty|noun
+unworthy|un·wor·thy|positive adjective
+mysterious|mys·te·ri·ous|positive adjective
+rationality|ra·tion·al·i·ty|noun
+resentment|re·sent·ment|noun
+conscience|con·science|noun
+happy|hap·py|noun
+happier|hap·pi·er|comparative adjective
+happiest|hap·pi·est|superlative adjective

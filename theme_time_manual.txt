@@ -1,0 +1,326 @@
+pause|pause|intransitive verb.noun.verb (usu participle)
+rest|rest|noun.verb (usu participle).transitive verb.intransitive verb.superlative adjective
+hesitation|hes·i·ta·tion|noun
+temporary|tem·po·rar·y|positive adjective.noun
+musical|mu·si·cal|positive adjective.noun
+indefinite|in·def·i·nite|positive adjective
+duration|du·ra·tion|noun
+playing|play·ing|noun.positive adjective.gerund
+season|sea·son|noun
+end|end|noun
+backward|back·ward|positive adjective.adverb
+rewind|re·wind|verb (usu participle).transitive verb.noun
+regret|re·gret|verb (usu participle).noun
+fueling|fu·el·ing|noun.gerund
+productivity|pro·duc·tiv·i·ty|noun
+balancing|bal·anc·ing|noun.gerund
+periods|pe·ri·ods|noun.plural noun
+fully|ful·ly|adverb
+absorbed|ab·sorbed|positive adjective.past tense
+attention|at·ten·tion|noun.interjection
+intermittent|in·ter·mit·tent|positive adjective
+renewal|re·new·al|noun
+future|fu·ture|noun.positive adjective
+splitting|split·ting|positive adjective.noun.gerund
+bed|bed|noun.past tense
+earlier|ear·li·er|adverb.comparative adjective
+focusing|fo·cus·ing|noun.gerund
+while|while|conjunction.noun.preposition.transitive verb
+at|at|preposition
+same|same|positive adjective.adverb
+time|time|noun.verb (usu participle)
+nonstop|non·stop|positive adjective.adverb.noun
+input|in·put|noun.transitive verb
+output|out·put|noun.verb (usu participle)
+forces|forc·es|plural noun
+accelerating|ac·cel·er·at·ing|positive adjective.gerund
+lives|lives|noun
+imagine|im·ag·ine|verb (usu participle).transitive verb
+size|size|noun.verb (usu participle).transitive verb.positive adjective
+always|al·ways|adverb
+room|room|noun.intransitive verb.verb (usu participle)
+already|al·read·y|adverb
+absorb|ab·sorb|transitive verb.verb (usu participle)
+choices|choices|noun.positive adjective.plural noun
+far|far|noun
+often|of·ten|adverb.positive adjective
+meetings|meet·ings|noun.plural noun
+email|e·mail|noun
+emails|e·mails|plural noun
+tweets|tweets|interjection.intransitive verb.noun.verb (usu participle).plural noun.singular verb
+facebook|face·book|noun
+update|up·date|verb (usu participle).transitive verb.noun
+updates|up·dates|verb (usu participle).transitive verb.noun.plural noun.singular verb
+purchases|pur·chas·es|transitive verb.noun.verb (usu participle).plural noun.singular verb
+friends|friends|noun.transitive verb.plural noun.singular verb
+likes|likes|positive adjective.preposition.adverb.conjunction.noun.transitive verb.verb (usu participle).plural noun.singular verb
+fan|fan|noun
+fans|fans|noun.verb (usu participle).plural noun.singular verb
+followers|fol·low·ers|noun
+prioritization|pri·or·i·ti·za·tion|noun
+increasingly|in·creas·ing·ly|adverb
+delegate|del·e·gate|noun.verb (usu participle).transitive verb
+eliminate|e·lim·i·nate|transitive verb.verb (usu participle)
+dimension|di·men·sion|noun.transitive verb.verb (usu participle)
+life|life|noun
+new|new|noun
+stop|stop|verb (usu participle).transitive verb.intransitive verb.noun
+doing|do·ing|noun.gerund
+ruthlessly|ruth·less·ly|adverb
+selective|se·lec·tive|positive adjective
+working|work·ing|noun.positive adjective.gerund
+memory|mem·o·ry|noun
+information|in·for·ma·tion|noun
+first|first|positive adjective.noun.adverb
+solution|so·lu·tion|noun
+moment|mo·ment|noun
+calmer|calm·er|comparative adjective
+receptive|re·cep·tive|positive adjective
+manage|man·age|verb (usu participle).intransitive verb.noun
+whatever|what·ev·er|pronoun.definite article.comparative adjective
+arise|a·rise|verb (usu participle)
+arises|a·ris·es|verb (usu participle).singular verb
+sense|sense|noun.transitive verb.verb (usu participle)
+complex|com·plex|positive adjective.noun
+demanding|de·mand·ing|positive adjective.gerund
+world|world|noun.positive adjective
+times|times|noun
+during|dur·ing|preposition.gerund
+day|day|noun
+back|back|noun.positive adjective.adverb.verb (usu participle)
+reflect|re·flect|verb (usu participle).transitive verb.intransitive verb
+metabolize|me·tab·o·lize|verb (usu participle)
+less|less|definite article.adverb.preposition.noun.positive adjective
+data|da·ta|noun
+context|con·text|noun
+volume|vol·ume|noun
+depth|depth|noun
+happen|hap·pen|intransitive verb.transitive verb.adverb.verb (usu participle)
+running|run·ning|positive adjective.noun.gerund
+next|next|positive adjective.adverb.preposition
+every|eve·ry|definite article.positive adjective
+between|be·tween|preposition.adverb
+purposeful|pur·pose·ful|positive adjective
+activities|ac·tiv·i·ties|plural noun
+sequentially|se·quen·tial·ly|adverb
+simultaneously|si·mul·ta·ne·ous·ly|adverb
+remember|re·mem·ber|verb (usu participle).transitive verb.comparative adjective
+learn|learn|verb (usu participle).transitive verb.intransitive verb
+journal|jour·nal|noun
+adult|a·dult|positive adjective.noun
+collect|col·lect|verb (usu participle).transitive verb.intransitive verb.adverb.positive adjective.noun
+idea|i·de·a|noun
+ideas|i·de·as|noun.plural noun
+occur|oc·cur|verb (usu participle)
+real|re·al|positive adjective.noun.adverb
+value|val·ue|noun.transitive verb.verb (usu participle)
+discover|dis·cov·er|transitive verb.verb (usu participle).comparative adjective
+discovered|dis·cov·er·ed|positive adjective.past tense
+periodically|pe·ri·od·i·cal·ly|adverb
+revisiting|re·vis·it·ing|gerund
+trip|trip|noun
+trips|trips|noun.intransitive verb.transitive verb.verb (usu participle).plural noun.singular verb
+interrupted|in·ter·rupt·ed|positive adjective.past tense
+reevaluating|re·e·val·u·at·ing|transitive verb.gerund
+fresh|fresh|positive adjective.noun.verb (usu participle).adverb
+fade|fade|verb (usu participle).intransitive verb.noun
+away|a·way|adverb.positive adjective.noun.interjection
+instant|in·stant|noun.positive adjective.adverb
+action|ac·tion|noun.interjection
+ripen|rip·en|verb (usu participle)
+act|act|noun.intransitive verb.transitive verb.verb (usu participle)
+before|be·fore|conjunction.preposition.adverb
+gratification|grat·i·fi·ca·tion|noun
+news|news|noun
+limit|lim·it|noun.transitive verb.verb (usu participle)
+night|night|noun
+relaxing|re·lax·ing|positive adjective.gerund
+perceiving|per·ceiv·ing|noun.gerund
+pass|pass|noun
+passing|pass·ing|positive adjective.adverb.noun.gerund
+changing|chang·ing|positive adjective.gerund
+pattern|pat·tern|noun.verb (usu participle)
+thought|thought|verb (usu participle).noun
+causation|cau·sa·tion|noun
+changes|changes|verb (usu participle).transitive verb.intransitive verb.noun.plural noun.singular verb
+event|e·vent|noun
+events|e·vents|noun.plural noun
+temporal|tem·po·ral|positive adjective
+relations|re·la·tions|plural noun.noun
+following|fol·low·ing|positive adjective.noun.gerund
+present|pres·ent|positive adjective.noun.verb (usu participle).transitive verb
+relation|re·la·tion|noun
+simultaneous|sim·ul·ta·ne·ous|positive adjective
+successive|suc·ces·sive|positive adjective
+paradox|par·a·dox|noun
+notion|no·tion|noun
+occurring|oc·cur·ring|intransitive verb.gerund
+straight|straight|positive adjective.adverb.noun
+forward|for·ward|noun
+cease|cease|verb (usu participle).noun
+ceased|ceas·ed|verb (usu participle).past tense
+senses|sens·es|noun.transitive verb.verb (usu participle).plural noun.singular verb
+past|past|noun
+change|change|verb (usu participle).transitive verb.intransitive verb.noun
+passage|pas·sage|noun.verb (usu participle)
+aware|a·ware|positive adjective
+motion|mo·tion|noun.verb (usu participle)
+spatial|spa·tial|positive adjective
+positions|po·si·tions|noun.transitive verb.verb (usu participle).plural noun.singular verb
+earliest|ear·li·est|adverb.superlative adjective
+died|di·ed|intransitive verb
+young|young|noun
+age|age|noun
+long|long|noun
+god|god|noun.interjection
+non-existent|non·ex·ist·ence|noun
+presently|pres·ent·ly|adverb
+durationless|du·ra·tion·less|positive adjective
+measuring|meas·ur·ing|noun.gerund
+measure|meas·ure|noun.intransitive verb.transitive verb.verb (usu participle)
+interval|in·ter·val|noun
+mind|mind|noun.verb (usu participle).transitive verb
+process|proc·ess|noun.transitive verb.intransitive verb.verb (usu participle).singular verb
+item|i·tem|noun.verb (usu participle).transitive verb.adverb
+psychological|psy·cho·log·i·cal|positive adjective
+occurred|oc·curred|intransitive verb
+ago|a·go|adverb.positive adjective
+contrast|con·trast|verb (usu participle).noun
+persists|per·sists|intransitive verb.verb (usu participle).singular verb
+trace|trace|noun
+quickly|quick·ly|adverb
+memories|mem·o·ries|plural noun
+distant|dis·tant|positive adjective
+relative|rel·a·tive|positive adjective.noun
+instance|in·stance|noun.transitive verb.verb (usu participle)
+date|date|noun.transitive verb.intransitive verb.verb (usu participle)
+inference|in·fer·ence|noun
+short|short|noun
+intervals|in·ter·vals|noun.plural noun
+minute|min·ute|noun.transitive verb.positive adjective
+minutes|min·utes|plural noun.noun
+second|sec·ond|positive adjective.noun.transitive verb.adverb.verb (usu participle)
+seconds|se·conds|positive adjective.noun.transitive verb.adverb.verb (usu participle).plural noun.singular verb
+hour|hour|noun
+hours|hours|plural noun
+year|year|noun
+years|years|noun
+month|month|noun
+months|months|noun.plural noun
+week|week|noun.adverb
+weeks|weeks|noun
+delay|de·lay|transitive verb.intransitive verb.noun.verb (usu participle)
+delays|de·lays|transitive verb.intransitive verb.noun.verb (usu participle).plural noun.singular verb
+occurrence|oc·cur·rence|noun
+period|pe·ri·od|noun
+eventually|e·ven·tu·al·ly|adverb
+rate|rate|noun.verb (usu participle).transitive verb
+rapidly|rap·id·ly|adverb
+immediately|im·me·di·ate·ly|adverb.conjunction
+intuition|in·tu·i·tion|noun
+after|af·ter|preposition.adverb.conjunction.comparative adjective
+arrival|ar·ri·val|noun
+inevitable|in·ev·i·ta·ble|positive adjective.noun
+reality|re·al·i·ty|noun
+currently|cur·rent·ly|adverb
+exist|ex·ist|intransitive verb.verb (usu participle)
+exists|ex·ists|intransitive verb.verb (usu participle).singular verb
+permanent|per·ma·nent|positive adjective.noun
+eternity|e·ter·ni·ty|noun
+universe|u·ni·verse|noun
+karma|kar·ma|noun
+death|death|noun
+prophets|proph·ets|noun
+diviners|di·vin·ers|noun.plural noun
+predict|pre·dict|transitive verb.verb (usu participle)
+forecast|fore·cast|verb (usu participle).transitive verb.noun
+futurology|fu·tur·ol·o·gy|noun
+futures|fu·tures|plural noun
+stress|stress|noun.transitive verb.verb (usu participle)
+prediction|pre·dic·tion|noun
+futurism|fu·tur·ism|noun
+speed|speed|noun.verb (usu participle).past tense
+music|mu·sic|noun
+break|break|verb (usu participle).transitive verb.intransitive verb.noun.interjection
+breath|breath|noun
+yesterday|yes·ter·day|noun.adverb
+yesteryear|yes·ter·year|noun.adverb
+watch|watch|verb (usu participle).intransitive verb.transitive verb.noun
+water|wa·ter|noun.transitive verb.intransitive verb.verb (usu participle).comparative adjective
+clock|clock|noun.transitive verb.verb (usu participle)
+wristwatch|wrist·watch|noun
+tardy|tar·dy|positive adjective
+tempo|tem·po|noun
+then|then|adverb.noun.positive adjective
+timekeeper|time·keep·er|noun.comparative adjective
+timepiece|time·piece|noun
+timer|tim·er|noun.comparative adjective
+timetable|time·ta·ble|noun
+tonight|to·night|noun.adverb
+today|to·day|noun.adverb
+tomorrow|to·mor·row|noun.adverb
+triennium|tri·en·ni·um|noun
+trimester|tri·mes·ter|noun.comparative adjective
+twilight|twi·light|noun.positive adjective
+schedule|sched·ule|noun.transitive verb.verb (usu participle)
+semester|se·mes·ter|noun.comparative adjective
+semiquaver|sem·i·qua·ver|noun
+shift|shift|verb (usu participle).transitive verb.intransitive verb.noun
+someday|some·day|adverb
+sometime|some·time|adverb.positive adjective
+soon|soon|adverb
+stopwatch|stop·watch|noun
+sundial|sun·di·al|noun
+sunrise|sun·rise|noun.positive adjective
+sunset|sun·set|noun.positive adjective
+synchronized|syn·chro·niz·ed|verb (usu participle).positive adjective.past tense
+meridian|me·rid·i·an|noun
+microsecond|mi·cro·sec·ond|noun
+midafternoon|mid·af·ter·noon|noun.positive adjective
+midnight|mid·night|noun.adverb
+midmorning|mid·morn·ing|noun.adverb.positive adjective
+millennium|mil·len·ni·um|noun
+millisecond|mil·li·sec·ond|noun
+momentarily|mo·men·tar·i·ly|adverb
+morning|morn·ing|noun.positive adjective.gerund
+nanosecond|na·no·sec·ond|noun
+nighttime|night·time|noun.positive adjective
+noon|noon|noun
+now|now|adverb.conjunction.noun
+o'clock|o·clock|adverb
+overtime|o·ver·time|noun.adverb.verb (usu participle).transitive verb
+picosecond|pi·co·sec·ond|noun
+premature|prem·a·ture|positive adjective
+quarter|quar·ter|noun.transitive verb.intransitive verb.verb (usu participle).comparative adjective
+quartz|quartz|noun
+evening|eve·ning|noun.gerund
+everyday|eve·ry·day|positive adjective
+fortnight|fort·night|noun
+half-life|half·life|noun
+half-lives|half·lives|plural noun
+hands|hands|plural noun
+horology|ho·rol·o·gy|noun
+hourglass|hour·glass|noun
+jiffy|jif·fy|noun
+jubilee|ju·bi·lee|noun
+late|late|positive adjective.adverb
+later|lat·er|adverb.comparative adjective
+leap|leap|verb (usu participle).intransitive verb.transitive verb.noun
+afternoon|af·ter·noon|noun.positive adjective
+afterwards|af·ter·wards|adverb
+alarm|a·larm|transitive verb.noun.verb (usu participle)
+annual|an·nu·al|positive adjective.noun
+belated|be·lat·ed|positive adjective.past tense
+bell|bell|noun
+biennial|bi·en·ni·al|positive adjective.noun
+calendar|cal·en·dar|noun.transitive verb.verb (usu participle)
+century|cen·tu·ry|noun
+chronological|chron·o·log·i·cal|positive adjective
+chronology|chro·nol·o·gy|noun
+chronometer|chro·nom·e·ter|noun.comparative adjective
+daylight|day·light|noun
+daytime|day·time|noun.positive adjective
+decade|dec·ade|noun
+decennium|de·cen·ni·um|noun
+delayed|de·lay·ed|positive adjective.past tense
+dial|dial|noun.verb (usu participle)

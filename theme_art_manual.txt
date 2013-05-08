@@ -1,0 +1,239 @@
+art|art|noun
+human|hu·man|positive adjective.noun
+activities|ac·tiv·i·ties|plural noun
+products|prod·ucts|noun.plural noun
+article|ar·ti·cle|noun.transitive verb.verb (usu participle)
+focus|fo·cus|noun.verb (usu participle)
+visual|vis·u·al|positive adjective.noun
+arts|arts|plural noun.noun
+creation|cre·a·tion|noun
+images|im·ages|noun.transitive verb.verb (usu participle).plural noun.singular verb
+objects|ob·jects|noun.transitive verb.intransitive verb.verb (usu participle).plural noun.singular verb
+field|field|noun
+painting|paint·ing|noun.gerund
+sculpture|sculp·ture|noun.verb (usu participle)
+printmaking|print·mak·ing|noun
+photography|pho·tog·ra·phy|noun
+media|me·di·a|noun
+architecture|ar·chi·tec·ture|noun
+decorative|dec·o·ra·tive|positive adjective.adverb
+music|mu·sic|noun
+theatre|the·a·tre|noun
+film|film|noun.verb (usu participle)
+dance|dance|intransitive verb.transitive verb.noun.verb (usu participle)
+literature|lit·er·a·ture|noun
+interactive|in·ter·ac·tive|positive adjective
+mimesis|mi·me·sis|noun
+expression|ex·pres·sion|noun
+values|val·ues|noun
+romantic|ro·man·tic|positive adjective.noun
+artifact|ar·ti·fact|noun
+artificial|ar·ti·fi·cial|positive adjective
+filmography|film·og·ra·phy|noun
+videography|vid·e·og·ra·phy|noun
+calligraphy|cal·lig·ra·phy|noun.adverb
+haiku|hai·ku|noun
+poetry|po·et·ry|noun
+poem|po·em|noun
+words|words|plural noun.noun
+text|text|noun
+index|in·dex|noun.transitive verb.verb (usu participle)
+intro|in·tro|noun
+introduction|in·tro·duc·tion|noun
+line-up|line-·up|noun
+set-up|set-·up|noun
+creative|cre·a·tive|positive adjective
+creativity|cre·a·tiv·i·ty|noun
+audience|au·di·ence|noun
+technique|tech·nique|noun 
+genre|gen·re|noun
+landscape|land·scape|noun.transitive verb.intransitive verb.verb (usu participle)
+color|col·or|noun.verb (usu participle).transitive verb.intransitive verb.positive adjective
+depth|depth|noun
+imagine|im·ag·ine|verb (usu participle).transitive verb
+critic|crit·ic|noun
+critical|crit·i·cal|positive adjective
+critique|cri·tique|noun.verb (usu participle)
+mission|mis·sion|noun.transitive verb
+session|ses·sion|noun
+compare|com·pare|transitive verb.intransitive verb.noun.verb (usu participle)
+comparison|com·par·i·son|noun
+meanings|mean·ings|noun.positive adjective.plural noun
+means|means|noun
+mean|mean|verb (usu participle).intransitive verb.positive adjective.noun
+meant|meant|verb (usu participle)
+artworks|art·works|noun.plural noun
+art-work|art-·work|noun
+art-piece|art-·piece|noun
+structure|struc·ture|noun.verb (usu participle)
+play|play|verb (usu participle).transitive verb.intransitive verb.noun.positive adjective
+game|game|noun.positive adjective.intransitive verb.verb (usu participle)
+materials|ma·te·ri·als|plural noun
+object|ob·ject|noun.transitive verb.intransitive verb.verb (usu participle)
+subject|sub·ject|noun.positive adjective.adverb.verb (usu participle).transitive verb
+image|im·age|noun.transitive verb.verb (usu participle)
+imagery|im·age·ry|noun
+video|vid·e·o|noun
+event|e·vent|noun
+eve|eve|noun
+evening|eve·ning|noun.gerund
+festival|fes·ti·val|noun
+fest|fest|noun
+open-air|op·en-·air|noun
+land|land|noun
+soil|soil|noun.verb (usu participle).transitive verb
+bronze|bronze|noun.positive adjective.verb (usu participle).transitive verb
+gold|gold|noun
+amber|am·ber|noun.comparative adjective
+plastic|plas·tic|noun.positive adjective
+metal|metal|noun.positive adjective.verb (usu participle).transitive verb
+aluminum|a·lu·mi·num|noun.positive adjective
+grass|grass|noun
+wood|wood|noun
+hood|hood|noun
+kitsch|kitsch|noun.positive adjective
+shapes|shapes|noun.verb (usu participle).transitive verb.plural noun.singular verb
+colors|col·ors|plural noun.noun
+textures|tex·tures|noun.transitive verb.plural noun.singular verb
+line|line|noun
+lines|lines|plural noun
+pattern|pat·tern|noun.verb (usu participle)
+patterns|pat·terns|noun.verb (usu participle).plural noun.singular verb
+wallpaper|wall·pa·per|noun.verb (usu participle).comparative adjective
+compositional|com·po·si·tion·al|positive adjective
+compositing|com·po·sit·ing|gerund
+composition|com·po·si·tion|noun
+compose|com·pose|verb (usu participle).intransitive verb
+direct|di·rect|verb (usu participle).positive adjective.adverb
+director|di·rec·tor|noun
+directing|di·rect·ing|positive adjective.gerund
+filming|film·ing|noun.gerund
+production|pro·duc·tion|noun
+structures|struc·tures|noun.verb (usu participle).plural noun.singular verb
+interpretation|in·ter·pre·ta·tion|noun
+illusion|il·lu·sion|noun
+mystery|mys·ter·y|noun
+mastery|mas·ter·y|noun
+master|mas·ter|noun.comparative adjective
+genius|gen·ius|noun
+talent|tal·ent|noun
+talented|tal·ent·ed|noun.positive adjective.past tense
+intuition|in·tu·i·tion|noun
+techniques|tech·niques|noun.plural noun
+form|form|noun
+interpretations|in·ter·pre·ta·tions|noun.plural noun
+ideas|i·de·as|noun.plural noun
+feelings|feel·ings|noun
+artwork|art·work|noun
+engenders|en·gen·ders|transitive verb.verb (usu participle).singular verb
+modernist|mod·ern·ist|noun
+modernism|mod·ern·ism|noun.positive adjective
+contemporary|con·tem·po·rar·y|positive adjective.noun
+performance|per·for·mance|noun
+sound|sound|noun
+sonic|son·ic|positive adjective
+sonics|son·ics|noun
+audio|au·di·o|noun
+videos|vid·e·os|noun.plural noun
+picture|pic·ture|noun.transitive verb.verb (usu participle)
+picturesque|pic·tur·esque|positive adjective
+pictorial|pic·to·ri·al|positive adjective.noun
+medium|me·di·um|positive adjective.noun
+concept|con·cept|noun
+conceptual|con·cep·tu·al|positive adjective
+conceptualism|con·cep·tu·al·ism|noun
+protagonist|pro·tag·o·nist|noun
+protagonism|pro·tag·o·nism|noun
+slow|slow|positive adjective.adverb.verb (usu participle)
+colorful|col·or·ful|positive adjective
+megaphone|meg·a·phone|noun
+metaphor|met·a·phor|noun
+psychedelic|psych·e·del·ic|positive adjective
+techno|tech·no|noun
+abstract|ab·stract|positive adjective.noun.verb (usu participle).transitive verb
+linearity|lin·e·ar·i·ty|noun
+linear|lin·e·ar|positive adjective
+happening|hap·pen·ing|noun.positive adjective.gerund
+street|street|noun
+graffiti|graf·fi·ti|plural noun.noun
+spray|spray|noun.verb (usu participle).transitive verb
+nitro|ni·tro|noun
+florescent|flo·res·cence|noun
+bright|bright|noun
+light|light|noun
+white|white|noun.positive adjective
+noise|noise|noun.transitive verb.intransitive verb.verb (usu participle)
+cubes|cu·bes|noun.verb (usu participle).transitive verb.plural noun.singular verb
+cube|cube|noun.verb (usu participle).transitive verb
+tube|tube|noun.transitive verb.verb (usu participle)
+black|black|noun.positive adjective
+box|box|noun
+cinema|cin·e·ma|noun
+artistic|ar·tis·tic|positive adjective
+craft|craft|noun.transitive verb.verb (usu participle)
+tinkering|tink·er·ing|gerund
+tinker|tink·er|noun.intransitive verb.verb (usu participle).comparative adjective
+maker|mak·er|noun.comparative adjective
+make|make|verb (usu participle).intransitive verb.noun
+making|mak·ing|noun.gerund
+creating|cre·at·ing|gerund
+artistry|art·ist·ry|noun
+technology|tech·nol·o·gy|noun
+gallery|gal·ler·y|noun
+museum|mu·se·um|noun
+photo|pho·to|noun
+action|ac·tion|noun.interjection
+flashmob|flash·mob|noun
+statement|state·ment|noun
+portfolio|port·fo·li·o|noun
+studio|stu·di·o|noun
+studios|stu·di·os|noun.plural noun
+desk|desk|noun
+soundscape|sound·scape|noun
+reflection|re·flec·tion|noun
+reflect|re·flect|verb (usu participle).transitive verb.intransitive verb
+online|on·line|noun.positive adjective
+monitor|mon·i·tor|noun.verb (usu participle).transitive verb
+screen|screen|noun.transitive verb.verb (usu participle)
+beam|beam|noun.verb (usu participle).transitive verb.intransitive verb
+project|proj·ect|noun.verb (usu participle).transitive verb.intransitive verb
+projection|pro·jec·tion|noun
+projector|pro·jec·tor|noun
+slides|slid·es|verb (usu participle).intransitive verb.noun.plural noun.singular verb
+magazine|mag·a·zine|noun
+paper|pa·per|noun.verb (usu participle).transitive verb.comparative adjective
+newspaper|news·pa·per|noun.comparative adjective
+poster|post·er|noun.comparative adjective
+letter|let·ter|noun.verb (usu participle).comparative adjective
+typography|ty·pog·ra·phy|noun
+lithography|li·thog·ra·phy|noun
+graphics|graph·ics|noun
+graphic|graph·ic|positive adjective
+design|de·sign|verb (usu participle).transitive verb.noun
+flyer|fly·er|noun.comparative adjective
+blueprint|blue·print|noun.transitive verb.verb (usu participle)
+layout|lay·out|noun
+workshop|work·shop|noun
+photoshop|pho·to·shop|transitive verb
+tour|tour|noun
+travel|trav·el|verb (usu participle).transitive verb.noun
+print|print|verb (usu participle).transitive verb.noun.positive adjective
+printer|print·er|noun.comparative adjective
+copy|cop·y|noun.verb (usu participle)
+paste|paste|noun.transitive verb.verb (usu participle)
+copyright|cop·y·right|noun.positive adjective.transitive verb.verb (usu participle)
+collage|col·lage|noun
+assemblage|as·sem·blage|noun
+installations|in·stal·la·tions|noun.plural noun
+animation|an·i·ma·tion|noun
+films|films|noun.verb (usu participle).plural noun.singular verb
+process|proc·ess|noun.transitive verb.intransitive verb.verb (usu participle).singular verb
+drawing|draw·ing|noun.gerund
+digitally|dig·it·al·ly|adverb
+computer|com·put·er|noun.comparative adjective
+characteristics|char·ac·ter·is·tics|noun.positive adjective.plural noun
+visualize|vis·u·al·ize|verb (usu participle)
+storytelling|sto·ry·tell·ing|noun
+formats|for·mats|noun.verb (usu participle).transitive verb.plural noun.singular verb
+paint|paint|noun.verb (usu participle).transitive verb
+draw|draw|verb (usu participle).intransitive verb.transitive verb.noun

@@ -1,0 +1,234 @@
+animal|an·i·mal|noun.positive adjective
+animals|an·i·mals|noun.positive adjective.plural noun
+physical|phys·i·cal|positive adjective.noun
+carnal|car·nal|positive adjective
+corporal|cor·po·ral|positive adjective.noun
+corporeal|cor·po·re·al|positive adjective
+fleshly|flesh·ly|positive adjective
+material|ma·te·ri·al|noun.positive adjective
+somatic|so·mat·ic|positive adjective
+anatomic|an·a·tom·ic|positive adjective
+anatomical|an·a·tom·i·cal|positive adjective.noun
+physiological
+physiologic
+sensual|sen·su·al|positive adjective
+sensuous|sen·su·ous|positive adjective
+hand-to-hand
+cerebral|cer·e·bral|positive adjective.noun
+inner|in·ner|noun.comparative adjective
+intellectual|in·tel·lec·tu·al|positive adjective.noun
+mental|men·tal|positive adjective
+bodiless|bod·i·less|positive adjective
+immaterial|im·ma·te·ri·al|positive adjective
+incorporeal
+insubstantial|in·sub·stan·tial|positive adjective
+spiritual|spir·it·u·al|positive adjective.noun
+ethereal|e·the·re·al|positive adjective
+metaphysical
+limbs|limbs|noun.transitive verb.plural noun.singular verb
+arm|arm|noun
+arms|arms|plural noun.noun
+eye|eye|noun.verb (usu participle).transitive verb
+eyes|eyes|plural noun.noun
+eyebrow|eye·brow|noun
+belly|bel·ly|noun.verb (usu participle)
+leg|leg|noun.verb (usu participle)
+legs|legs|noun.verb (usu participle).plural noun.singular verb
+breast|breast|noun.transitive verb.verb (usu participle)
+breasts|breasts|noun.transitive verb.verb (usu participle).plural noun.singular verb
+urinary|u·ri·nar·y|noun.positive adjective
+tract|tract|noun
+kidney|kid·ney|noun
+ureters|u·re·ters|noun.plural noun
+bladder|blad·der|noun.comparative adjective
+uretha
+tooth|tooth|noun.verb (usu participle).transitive verb.intransitive verb
+enamel|e·nam·el|noun.verb (usu participle).transitive verb
+dentine
+gum|gum|noun.verb (usu participle)
+blood|blood|noun
+nerve|nerve|noun.transitive verb.verb (usu participle)
+pulp|pulp|noun.verb (usu participle).transitive verb
+jaw|jaw|noun.intransitive verb.verb (usu participle)
+cement|ce·ment|noun.transitive verb.verb (usu participle)
+teeth|teeth|noun.verb (usu participle)
+hard|hard|positive adjective.adverb.noun
+white|white|noun.positive adjective
+objects|ob·jects|noun.transitive verb.intransitive verb.verb (usu participle).plural noun.singular verb
+mouth|mouth|noun.verb (usu participle).transitive verb.intransitive verb
+which|which|definite article.pronoun
+biting|bit·ing|positive adjective.gerund
+chewing|chew·ing|noun.gerund
+bones|bones|noun
+centre
+back|back|noun.positive adjective.adverb.verb (usu participle)
+spine|spine|noun
+skeleton|skel·e·ton|noun
+opening|o·pen·ing|noun.positive adjective.gerund
+face|face|noun.verb (usu participle).transitive verb
+faces|faces|noun.verb (usu participle).transitive verb.plural noun.singular verb
+lips|lips|noun.verb (usu participle).plural noun.singular verb
+space|space|noun.transitive verb.verb (usu participle)
+spaces|spaces|noun.transitive verb.verb (usu participle).plural noun.singular verb
+tongue|tongue|noun
+lungs|lungs|noun.plural noun
+organs|or·gans|noun
+respiratory|res·pi·ra·to·ry|noun.intransitive verb.transitive verb.positive adjective
+elbow|el·bow|noun.verb (usu participle).transitive verb
+elbows|el·bows|noun.verb (usu participle).transitive verb.plural noun.singular verb
+liver|liv·er|noun.comparative adjective
+digest|di·gest|noun.superlative adjective
+fat|fat|noun.positive adjective.verb (usu participle)
+waste|waste|transitive verb.noun.positive adjective.verb (usu participle)
+cortex|cor·tex|noun
+heart|heart|noun.verb (usu participle)
+hearts|hearts|noun
+provides|pro·vides|verb (usu participle).intransitive verb.singular verb
+oxygen|ox·y·gen|noun
+nutrients|nu·tri·ents|noun.positive adjective.plural noun
+fist|fist|noun.transitive verb
+fists|fists|noun.transitive verb.plural noun.singular verb
+finger|fin·ger|noun.transitive verb.intransitive verb.verb (usu participle).comparative adjective
+fingers|fin·gers|noun.transitive verb.intransitive verb.verb (usu participle).plural noun.singular verb
+foot|foot|noun
+feet|feet|noun
+ankle|an·kle|noun
+buttocks|but·tocks|noun
+hair|hair|noun
+neck|neck|noun.intransitive verb.verb (usu participle)
+HAND|have·a·nice·day|interjection
+hands|hands|noun
+pupil|pu·pil|noun
+pupils|pu·pils|noun.plural noun
+lens|lens|noun
+retina|ret·i·na|noun
+muscle|mus·cle|noun.intransitive verb.verb (usu participle)
+ear|ear|noun.intransitive verb
+brain|brain|noun.transitive verb.verb (usu participle)
+brains|brains|noun.transitive verb.verb (usu participle).plural noun.singular verb
+wrist|wrist|noun
+hip|hip|noun.interjection.positive adjective
+frontal|front·al|positive adjective.noun
+lobe|lobe|noun
+memory|mem·o·ry|noun
+chin|chin|noun
+knee|knee|noun.verb (usu participle)
+bone|bone|noun
+prostata
+corpus|cor·pus|noun
+head|head|noun
+lip|lip|noun.verb (usu participle)
+big|big|positive adjective.adverb
+toe|toe|noun.transitive verb.intransitive verb.verb (usu participle).positive adjective
+toes|toes|noun.transitive verb.intransitive verb.verb (usu participle).positive adjective.plural noun.singular verb
+heel|heel|noun.transitive verb.verb (usu participle)
+heels|heels|noun.transitive verb.verb (usu participle).plural noun.singular verb
+little|lit·tle|noun
+toenail|toe·nail|noun.transitive verb
+toenails|toe·nails|noun.transitive verb.plural noun.singular verb
+knuckle|knuck·le|noun.transitive verb.intransitive verb.verb (usu participle)
+fingernails|fin·ger·nails|noun.plural noun
+middle|mid·dle|noun
+ring|ring|noun.gerund
+thumb|thumb|noun.transitive verb.verb (usu participle)
+nose|nose|noun.transitive verb.intransitive verb.verb (usu participle)
+nostril|nos·tril|noun
+abdomen|ab·do·men|noun
+adenoids|ad·e·noids|plural noun
+adrenal|ad·re·nal|positive adjective.noun
+gland|gland|noun
+anatomy|a·nat·o·my|noun
+anus|a·nus|noun
+appendix|ap·pen·dix|noun
+arch|arch|noun
+artery|ar·ter·y|noun
+small|small|noun
+vessels|ves·sels|noun.plural noun
+vain|vain|positive adjective.noun
+vains
+body|bod·y|noun
+endocrine|en·do·crine|positive adjective.noun
+esophagus|e·soph·a·gus|noun
+eyelashes|eye·lash·es|noun.plural noun
+eyelid|eye·lid|noun
+fallopian
+tubes|tubes|noun.transitive verb.verb (usu participle).plural noun.singular verb
+femur|fe·mur|noun
+fibula|fib·u·la|noun
+filling|fill·ing|noun.gerund
+fingernail|fin·ger·nail|noun
+follicle|fol·li·cle|noun
+forehead|fore·head|noun
+gallbladder|gall·blad·der|noun.comparative adjective
+glands|glands|noun.plural noun
+groin|groin|noun.transitive verb.verb (usu participle)
+gums|gums|noun.verb (usu participle).plural noun.singular verb
+humerus|hu·mer·us|noun
+system|sys·tem|noun
+instep|in·step|noun
+intestines|in·tes·tines|noun.plural noun
+iris|i·ris|noun
+calf|calf|noun
+capillary|cap·il·lar·y|positive adjective.noun
+carpal|car·pal|noun.positive adjective
+cartilage|car·ti·lage|noun
+cell|cell|noun
+cheek|cheek|noun.transitive verb.verb (usu participle).positive adjective
+chest|chest|noun.superlative adjective
+clavicle|clav·i·cle|noun
+coccyx|coc·cyx|noun
+digestive|di·ges·tive|positive adjective.noun
+ligament|lig·a·ment|noun
+metacarpal|met·a·car·pal|positive adjective.noun
+metatarsal|met·a·tar·sal|positive adjective.noun
+molar|mo·lar|noun.positive adjective
+muscle|mus·cle|noun.intransitive verb.verb (usu participle)
+muscles|mus·cles|noun.intransitive verb.verb (usu participle).plural noun.singular verb
+nail|nail|noun.transitive verb.verb (usu participle)
+nail|nail|noun.transitive verb.verb (usu participle)
+navel|na·vel|noun
+nerves|nerves|plural noun.noun
+nipple|nip·ple|noun
+orgran
+pancreas|pan·cre·as|noun
+patella|pa·tel·la|noun
+pelvis|pel·vis|noun
+phalanges|pha·lan·ges|noun.plural noun
+pore|pore|intransitive verb.noun.verb (usu participle)
+rectum|rec·tum|noun
+scalp|scalp|noun.transitive verb.verb (usu participle)
+scapula|scap·u·la|noun
+senses|sens·es|noun.transitive verb.verb (usu participle).plural noun.singular verb
+shin|shin|noun
+shoulder|shoul·der|noun.transitive verb.verb (usu participle).comparative adjective
+skin|skin|noun.verb (usu participle).positive adjective
+skull|skull|noun
+sole|sole|positive adjective.noun.transitive verb.verb (usu participle)
+spinal|spi·nal|positive adjective.noun
+spleen|spleen|noun
+sternum|ster·num|noun
+stomach|stom·ach|noun.transitive verb.verb (usu participle)
+tendon|ten·don|noun
+testes|tes·tes|noun
+thigh|thigh|noun
+thorax|thor·ax|noun
+throat|throat|noun
+thyroid|thy·roid|positive adjective.noun
+tibia|tib·i·a|noun
+tissue|tis·sue|noun.transitive verb.verb (usu participle)
+tonsils|ton·sils|noun.plural noun
+torso|tor·so|noun
+red|red|positive adjective.noun.past tense
+cells|cells|noun.plural noun
+ribs|ribs|noun.verb (usu participle).transitive verb.plural noun.singular verb
+rib|rib|noun.verb (usu participle).transitive verb
+ears|ears|noun.intransitive verb.plural noun.singular verb
+bottom|bot·tom|noun.positive adjective.transitive verb.intransitive verb.verb (usu participle)
+underarm|un·der·arm|positive adjective.adverb
+forearm|fore·arm|noun.transitive verb.verb (usu participle)
+forearms|fore·arms|noun.transitive verb.verb (usu participle).plural noun.singular verb
+shoulders|shoul·ders|noun.transitive verb.verb (usu participle).plural noun.singular verb
+waist|waist|noun
+waists|waists|noun.plural noun
+calves|calves|noun
+eyelash|eye·lash|noun

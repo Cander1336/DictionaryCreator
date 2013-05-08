@@ -1,0 +1,757 @@
+way|way|noun
+thing|thing|noun.gerund
+man|man|noun
+world|world|noun.positive adjective
+life|life|noun
+hand|hand|noun
+part|part|noun.adverb.verb (usu participle).intransitive verb.transitive verb.positive adjective
+child|child|noun
+eye|eye|noun.verb (usu participle).transitive verb
+woman|wom·an|noun.transitive verb
+place|place|noun.verb (usu participle).intransitive verb
+work|work|noun.transitive verb.intransitive verb.verb (usu participle)
+week|week|noun.adverb
+case|case|noun
+point|point|noun.transitive verb.verb (usu participle).intransitive verb
+company|com·pa·ny|noun.verb (usu participle)
+number|num·ber|noun.verb (usu participle).comparative adjective
+group|group|noun.verb (usu participle).positive adjective
+problem|prob·lem|noun
+fact|fact|noun
+2moro|to·mor·row|noun.adverb
+2nite|to·night|noun.adverb
+2DAY|to·day|noun.adverb.positive adjective
+BFF|b·f·f|noun
+POV|point·of·view|noun
+BF|boy·friend|noun
+GF|girl·friend|noun
+FB|face·book|noun
+TMRW|to·mor·row|noun.adverb
+RL|real·life|noun
+ways|ways|noun.adverb.plural noun
+things|things|plural noun
+men|men|nplural noun
+worlds|worlds|noun.positive adjective.plural noun
+lives|lives|plural noun
+hands|hands|plural noun
+parts|parts|plural noun.noun
+children|chil·dren|plural noun
+eyes|eyes|plural noun.noun
+women|wom·en|plural noun
+places|places|noun.verb (usu participle).intransitive verb.plural noun.singular verb
+weeks|weeks|plural noun
+cases|cas·es|noun.transitive verb.verb (usu participle).plural noun.singular verb
+points|points|noun.transitive verb.verb (usu participle).intransitive verb.plural noun.singular verb
+companies|com·pa·nies|plural noun
+numbers|num·bers|plural noun
+groups|groups|noun.verb (usu participle).positive adjective.plural noun.singular verb
+problems|prob·lems|noun.plural noun
+facts|facts|noun.plural noun
+PPL|peo·ple|plural noun
+be|be|intransitive verb
+have|have|verb (usu participle).noun
+do|do|verb (usu participle)
+say|say|noun
+get|get|verb (usu participle).intransitive verb.noun
+make|make|verb (usu participle).intransitive verb.noun
+go|go|intransitive verb.transitive verb
+know|know|verb (usu participle).noun
+take|take|verb (usu participle).intransitive verb.noun
+see|see|noun
+come|come|verb (usu participle).transitive verb.interjection
+think|think|verb (usu participle).intransitive verb.transitive verb.noun
+look|look|verb (usu participle).transitive verb.noun
+want|want|transitive verb.noun.intransitive verb.verb (usu participle)
+give|give|verb (usu participle).intransitive verb.noun
+use|use|verb (usu participle).transitive verb.noun
+find|find|verb (usu participle).noun
+tell|tell|noun
+ask|ask|noun
+seem|seem|noun
+feel|feel|verb (usu participle).transitive verb.intransitive verb.noun
+try|try|transitive verb.intransitive verb.noun.verb (usu participle)
+leave|leave|verb (usu participle).transitive verb.noun
+call|call|noun
+walks|walks|intransitive verb.noun.transitive verb.verb (usu participle).plural noun.singular verb
+plays|plays|verb (usu participle).transitive verb.intransitive verb.noun.positive adjective.plural noun.singular verb
+works|works|plural noun.noun
+falls|falls|noun
+returns|re·turns|intransitive verb.transitive verb.noun.verb (usu participle).plural noun.singular verb
+runs|runs|verb (usu participle).intransitive verb.transitive verb.noun.plural noun.singular verb
+talks|talks|noun
+carouses|ca·rous·es|intransitive verb.noun.verb (usu participle).plural noun.singular verb
+loiters|loi·ters|intransitive verb.verb (usu participle).singular verb
+sings|sings|verb (usu participle).intransitive verb.noun.transitive verb.plural noun.singular verb
+turns|turns|verb (usu participle).transitive verb.intransitive verb.noun.plural noun.singular verb
+burns|burns|noun
+flutters|flut·ters|verb (usu participle).intransitive verb.transitive verb.noun.plural noun.singular verb
+sets|sets|verb (usu participle).intransitive verb.noun.positive adjective.plural noun.singular verb
+breaks|breaks|verb (usu participle).transitive verb.intransitive verb.noun.interjection.plural noun.singular verb
+wakes|wakes|noun.verb (usu participle).plural noun.singular verb
+clashes|clash·es|verb (usu participle).intransitive verb.noun.plural noun.singular verb
+splashes|splash·es|verb (usu participle).transitive verb.noun.plural noun.singular verb
+melts|melts|verb (usu participle).noun.plural noun.singular verb
+waits|waits|verb (usu participle).intransitive verb.noun.plural noun.singular verb
+walk|walk|intransitive verb.noun.transitive verb.verb (usu participle)
+play|play|verb (usu participle).transitive verb.intransitive verb.noun.positive adjective
+fall|fall|noun
+return|re·turn|intransitive verb.transitive verb.noun.verb (usu participle)
+run|run|verb (usu participle).intransitive verb.transitive verb.noun
+talk|talk|intransitive verb.noun.transitive verb.verb (usu participle)
+carouse|ca·rouse|intransitive verb.noun.verb (usu participle)
+loiter|loi·ter|intransitive verb.verb (usu participle).comparative adjective
+sing|sing|intransitive verb.noun.transitive verb.gerund
+slip|slip|verb (usu participle).intransitive verb.transitive verb.noun
+retire|re·tire|verb (usu participle).transitive verb
+turn|turn|verb (usu participle).transitive verb.intransitive verb.noun
+burn|burn|noun
+flutter|flut·ter|verb (usu participle).intransitive verb.transitive verb.noun.comparative adjective
+set|set|noun
+break|break|verb (usu participle).transitive verb.intransitive verb.noun.interjection
+wake|wake|noun
+clash|clash|verb (usu participle).intransitive verb.noun
+splash|splash|verb (usu participle).transitive verb.noun
+diminish|di·min·ish|verb (usu participle).transitive verb
+melt|melt|verb (usu participle).noun
+wait|wait|noun
+hunts|hunts|noun
+starts|starts|verb (usu participle).intransitive verb.transitive verb.noun.plural noun.singular verb
+plunders|plun·ders|verb (usu participle).transitive verb.noun.plural noun.singular verb
+scolds|scolds|verb (usu participle).intransitive verb.noun.plural noun.singular verb
+sprouts|sprouts|verb (usu participle).intransitive verb.noun.plural noun.singular verb
+fears|fears|noun.verb (usu participle).transitive verb.intransitive verb.plural noun.singular verb
+offers|of·fers|verb (usu participle).intransitive verb.noun.transitive verb.plural noun.singular verb
+twists|twists|verb (usu participle).transitive verb.intransitive verb.noun.plural noun.singular verb
+flusters|flus·ters|verb (usu participle).noun.plural noun.singular verb
+kisses|kiss·es|transitive verb.intransitive verb.noun.verb (usu participle).plural noun.singular verb
+eats|eats|plural noun.noun
+stops|stops|noun
+startles|star·tles|verb (usu participle).noun.plural noun.singular verb
+finds|finds|verb (usu participle).noun.plural noun.singular verb
+loves|loves|transitive verb.intransitive verb.noun.verb (usu participle).plural noun.singular verb
+hates|hates|verb (usu participle).intransitive verb.noun.plural noun.singular verb
+strokes|strokes|noun.transitive verb.verb (usu participle).plural noun.singular verb
+bites|bites|verb (usu participle).transitive verb.intransitive verb.noun.plural noun.singular verb
+catches|catch·es|verb (usu participle).transitive verb.intransitive verb.noun.plural noun.singular verb
+recognises|rec·og·ni·ses|transitive verb.singular verb
+leaves|leaves|noun
+admits|ad·mits|verb (usu participle).intransitive verb.singular verb
+bends|bends|plural noun.noun
+moves|moves|verb (usu participle).noun.intransitive verb.transitive verb.plural noun.singular verb
+RT|re·tweet|transitive verb
+hunt|hunt|noun
+start|start|verb (usu participle).intransitive verb.transitive verb.noun
+plunder|plun·der|verb (usu participle).transitive verb.noun.comparative adjective
+scold|scold|verb (usu participle).intransitive verb.noun
+sprout|sprout|verb (usu participle).intransitive verb.noun
+fear|fear|noun
+offer|of·fer|verb (usu participle).intransitive verb.noun.transitive verb.comparative adjective
+twist|twist|verb (usu participle).transitive verb.intransitive verb.noun
+fluster|flus·ter|verb (usu participle).noun.comparative adjective
+kiss|kiss|transitive verb.intransitive verb.noun.verb (usu participle).singular verb
+eat|eat|verb (usu participle).transitive verb
+stop|stop|verb (usu participle).transitive verb.intransitive verb.noun
+startle|star·tle|verb (usu participle).noun
+love|love|noun
+hate|hate|verb (usu participle).intransitive verb.noun
+stroke|stroke|noun.transitive verb.verb (usu participle)
+bite|bite|verb (usu participle).transitive verb.intransitive verb.noun
+catch|catch|verb (usu participle).transitive verb.intransitive verb.noun
+recognise|rec·og·nize|transitive verb
+admit|ad·mit|verb (usu participle).intransitive verb
+bend|bend|noun
+move|move|verb (usu participle).noun.intransitive verb.transitive verb
+good|good|noun
+new|new|noun
+first|first|positive adjective.noun.adverb
+last|last|positive adjective.adverb.noun.verb (usu participle).transitive verb
+long|long|noun
+great|great|positive adjective.adverb.noun
+little|lit·tle|noun
+own|own|definite article.transitive verb.verb (usu participle).positive adjective
+other|oth·er|noun.comparative adjective
+old|old|noun
+right|right|positive adjective.adverb.noun.verb (usu participle).interjection
+big|big|positive adjective.adverb
+high|high|noun
+different|dif·fer·ent|positive adjective
+small|small|noun
+large|large|positive adjective.noun.adverb
+next|next|positive adjective.adverb.preposition
+early|ear·ly|noun
+young|young|noun
+important|im·por·tant|positive adjective
+few|few|definite article.noun.positive adjective
+public|pub·lic|positive adjective.noun
+bad|bad|positive adjective.noun.adverb.verb (usu participle)
+same|same|positive adjective.adverb
+able|a·ble|positive adjective.noun
+FWB|friends·with·be·ne·fits|positive adjective
+newer|new·er|comparative adjective
+longer|long·er|adverb.comparative adjective
+greater|great·er|comparative adjective
+higher|high·er|comparative adjective
+worse|worse|positive adjective.noun.adverb
+earlier|ear·li·er|adverb.comparative adjective
+larger|larg·er|comparative adjective
+bigger|big·ger|comparative adjective
+older|old·er|noun.comparative adjective
+newest|new·est|superlative adjective
+longest|long·est|adverb.superlative adjective
+greatest|great·est|noun.superlative adjective
+highest|high·est|superlative adjective
+worst|worst|positive adjective.adverb.noun.transitive verb.verb (usu participle)
+earliest|ear·li·est|adverb.superlative adjective
+largest|larg·est|superlative adjective
+biggest|big·gest|superlative adjective
+oldest|old·est|superlative adjective
+F2F|face·to·face|adverb
+P2P|peer·to·peer|adverb
+abnormally|ab·nor·mal·ly|adverb
+accidentally|ac·ci·den·tal·ly|adverb
+acidly|ac·id·ly|adverb
+actually|ac·tu·al·ly|adverb
+adventurously|ad·ven·tur·ous·ly|adverb
+afterwards|af·ter·wards|adverb
+almost|al·most|adverb
+always|al·ways|adverb
+angrily|an·gri·ly|adverb
+annually|an·nu·al·ly|adverb
+anxiously|anx·ious·ly|adverb
+arrogantly|ar·ro·gant·ly|adverb
+awkwardly|awk·ward·ly|adverb
+badly|bad·ly|adverb
+bashfully|bash·ful·ly|adverb
+beautifully|beau·ti·ful·ly|adverb
+bitterly|bit·ter·ly|adverb
+bleakly|bleak·ly|adverb
+blindly|blind·ly|adverb
+blissfully|bliss·ful·ly|adverb
+boastfully|boast·ful·ly|adverb
+boldly|bold·ly|adverb
+bravely|brave·ly|adverb
+briefly|brief·ly|adverb
+brightly|bright·ly|adverb
+briskly|brisk·ly|adverb
+broadly|broad·ly|adverb
+busily|bus·i·ly|adverb
+calmly|calm·ly|adverb
+carefully|care·ful·ly|adverb
+carelessly|care·less·ly|adverb
+cautiously|cau·tious·ly|adverb
+certainly|cer·tain·ly|adverb
+cheerfully|cheer·ful·ly|adverb
+clearly|clear·ly|adverb
+cleverly|clev·er·ly|adverb
+closely|close·ly|adverb
+coaxingly|coax·ing·ly|adverb
+colorfully|col·or·ful·ly|adverb
+commonly|com·mon·ly|adverb
+continually|con·tin·u·al·ly|adverb
+coolly|cool·ly|adverb
+correctly|cor·rect·ly|adverb
+courageously|cou·ra·geous·ly|adverb
+crossly|cross·ly|adverb
+cruelly|cru·el·ly|adverb
+curiously|cu·ri·ous·ly|adverb
+daily|dai·ly|positive adjective.noun.adverb
+daintily|dain·ti·ly|adverb
+dearly|dear·ly|adverb
+deceivingly|de·ceiv·ing·ly|adverb
+delightfully|de·light·ful·ly|adverb
+deeply|deep·ly|adverb
+defiantly|de·fi·ant·ly|adverb
+deliberately|de·lib·er·ate·ly|adverb
+diligently|dil·i·gent·ly|adverb
+dimly|dim·ly|adverb
+doubtfully|doubt·ful·ly|adverb
+dreamily|dream·i·ly|adverb
+easily|eas·i·ly|adverb
+elegantly|el·e·gant·ly|adverb
+energetically|en·er·get·i·cal·ly|adverb
+enormously|e·nor·mous·ly|adverb
+enthusiastically|en·thu·si·as·ti·cal·ly|adverb
+equally|e·qual·ly|adverb
+especially|es·pe·cial·ly|adverb
+even|e·ven|noun
+evenly|e·ven·ly|adverb
+eventually|e·ven·tu·al·ly|adverb
+exactly|ex·act·ly|adverb.interjection
+excitedly|ex·cit·ed·ly|adverb
+extremely|ex·treme·ly|adverb
+fairly|fair·ly|adverb
+faithfully|faith·ful·ly|adverb
+famously|fa·mous·ly|adverb
+far|far|noun
+fast|fast|noun
+fatally|fa·tal·ly|adverb
+ferociously|fe·ro·cious·ly|adverb
+fervently|fer·vent·ly|adverb
+fiercely|fierce·ly|adverb
+fondly|fond·ly|adverb
+foolishly|fool·ish·ly|adverb
+fortunately|for·tu·nate·ly|adverb
+frankly|frank·ly|adverb
+frantically|fran·ti·cal·ly|adverb
+freely|free·ly|adverb
+frenetically|fre·net·i·cal·ly|adverb
+frightfully|fright·ful·ly|adverb
+fully|ful·ly|adverb
+furiously|fu·ri·ous·ly|adverb
+generally|gen·er·al·ly|adverb
+generously|gen·er·ous·ly|adverb
+gently|gen·tly|adverb
+gladly|glad·ly|adverb
+gleefully|glee·ful·ly|adverb
+gracefully|grace·ful·ly|adverb
+gratefully|grate·ful·ly|adverb
+greatly|great·ly|adverb
+greedily|greed·i·ly|adverb
+happily|hap·pi·ly|adverb
+hastily|hast·i·ly|adverb
+healthily|health·i·ly|adverb
+heavily|heav·i·ly|adverb
+helpfully|help·ful·ly|adverb
+helplessly|help·less·ly|adverb
+highly|high·ly|adverb
+honestly|hon·est·ly|adverb.interjection
+hopelessly|hope·less·ly|adverb
+hourly|hour·ly|positive adjective.adverb
+hungrily|hun·gri·ly|adverb
+immediately|im·me·di·ate·ly|adverb.conjunction
+innocently|in·no·cent·ly|adverb
+inquisitively|in·quis·i·tive·ly|adverb
+instantly|in·stant·ly|adverb
+intensely|in·tense·ly|adverb
+intently|in·tent·ly|adverb
+interestingly|in·ter·est·ing·ly|adverb
+inwardly|in·ward·ly|adverb
+irritably|ir·ri·ta·bly|adverb
+jaggedly|jag·ged·ly|adverb
+jealously|jeal·ous·ly|adverb
+joyfully|joy·ful·ly|adverb
+joyously|joy·ous·ly|adverb
+jovially|jo·vi·al·ly|adverb
+jubilantly|ju·bi·lant·ly|adverb
+justly|just·ly|adverb
+keenly|keen·ly|adverb
+kiddingly|kid·ding·ly|adverb
+kindheartedly|kind·heart·ed·ly|adverb
+kindly|kind·ly|positive adjective.adverb
+kissingly|kiss·ing·ly|adverb
+knavishly|knav·ish·ly|adverb
+knottily|knot·ti·ly|adverb
+knowingly|know·ing·ly|adverb
+knowledgeably|knowl·edge·a·bly|adverb
+lazily|la·zi·ly|adverb
+less|less|definite article.adverb.preposition.noun.positive adjective
+lightly|light·ly|adverb
+likely|like·ly|positive adjective.adverb
+limply|limp·ly|adverb
+lively|live·ly|positive adjective.adverb
+loftily|loft·i·ly|adverb
+longingly|long·ing·ly|adverb
+loosely|loose·ly|adverb
+lovingly|lov·ing·ly|adverb
+loudly|loud·ly|adverb
+loyally|loy·al·ly|adverb
+madly|mad·ly|adverb
+majestically|ma·jes·ti·cal·ly|adverb
+meaningfully|mean·ing·ful·ly|adverb
+mechanically|me·chan·i·cal·ly|adverb
+merrily|mer·ri·ly|noun
+miserably|mis·er·a·bly|adverb
+mockingly|mock·ing·ly|adverb
+monthly|month·ly|positive adjective.adverb.noun
+more|more|noun
+mortally|mor·tal·ly|adverb
+mostly|most·ly|adverb
+mysteriously|mys·te·ri·ous·ly|adverb
+naturally|nat·u·ral·ly|adverb
+nearly|near·ly|adverb
+neatly|neat·ly|adverb
+needily|need·i·ly|adverb
+nervously|nerv·ous·ly|adverb
+never|nev·er|adverb.interjection.comparative adjective
+nicely|nice·ly|adverb
+noisily|nois·i·ly|adverb
+not|not|adverb
+obediently|o·be·di·ent·ly|adverb
+obnoxiously|ob·nox·ious·ly|adverb
+oddly|odd·ly|adverb
+offensively|of·fen·sive·ly|adverb
+officially|of·fi·cial·ly|adverb
+often|of·ten|adverb.positive adjective
+only|on·ly|positive adjective.adverb
+openly|o·pen·ly|adverb
+optimistically|op·ti·mis·ti·cal·ly|adverb
+overconfidently|o·ver·con·fi·dent·ly|adverb
+owlishly|owl·ish·ly|positive adjective.adverb
+painfully|pain·ful·ly|adverb
+partially|par·tial·ly|adverb
+patiently|pa·tient·ly|adverb
+perfectly|per·fect·ly|adverb
+physically|phys·i·cal·ly|adverb
+playfully|play·ful·ly|adverb
+politely|po·lite·ly|adverb
+poorly|poor·ly|adverb.positive adjective
+positively|pos·i·tive·ly|adverb
+potentially|po·ten·tial·ly|adverb
+powerfully|pow·er·ful·ly|adverb
+promptly|prompt·ly|adverb
+properly|prop·er·ly|adverb
+punctually|punc·tu·al·ly|adverb
+quaintly|quaint·ly|adverb
+quarrelsomely|quar·rel·some·ly|adverb
+queasily|quea·si·ly|adverb
+queerly|queer·ly|adverb
+questionably|ques·tion·a·bly|adverb
+questioningly|ques·tion·ing·ly|adverb
+quicker|quick·er|adverb.comparative adjective
+quickly|quick·ly|adverb
+quietly|qui·et·ly|adverb
+quirkily|quirk·i·ly|adverb
+quizzically|quiz·zi·cal·ly|adverb
+rapidly|rap·id·ly|adverb
+rarely|rare·ly|adverb
+readily|read·i·ly|adverb
+really|re·al·ly|adverb.interjection
+reassuringly|re·as·sur·ing·ly|adverb
+recklessly|reck·less·ly|adverb
+regularly|reg·u·lar·ly|adverb
+reluctantly|re·luc·tant·ly|adverb
+repeatedly|re·peat·ed·ly|adverb
+reproachfully|re·proach·ful·ly|adverb
+restfully|rest·ful·ly|adverb
+righteously|right·eous·ly|adverb
+rightfully|right·ful·ly|adverb
+rigidly|rig·id·ly|adverb
+roughly|rough·ly|adverb
+rudely|rude·ly|adverb
+sadly|sad·ly|adverb
+safely|safe·ly|adverb
+scarcely|scarce·ly|adverb
+scarily|scar·i·ly|adverb
+searchingly|search·ing·ly|adverb
+sedately|se·date·ly|adverb
+seemingly|seem·ing·ly|adverb
+seldom|sel·dom|adverb
+selfishly|self·ish·ly|adverb
+separately|sep·a·rate·ly|adverb
+seriously|se·ri·ous·ly|adverb
+shakily|shak·i·ly|adverb
+sharply|sharp·ly|adverb
+sheepishly|sheep·ish·ly|adverb
+shrilly|shril·ly|adverb
+shyly|shy·ly|adverb
+silently|si·lent·ly|adverb
+sleepily|sleep·i·ly|adverb
+slowly|slow·ly|adverb
+smoothly|smooth·ly|adverb
+softly|soft·ly|adverb
+solemnly|sol·emn·ly|adverb
+solidly|sol·id·ly|adverb
+sometimes|some·times|adverb
+soon|soon|adverb
+speedily|speed·i·ly|adverb
+stealthily|stealth·i·ly|adverb
+sternly|stern·ly|adverb
+strictly|strict·ly|adverb
+successfully|suc·cess·ful·ly|adverb
+suddenly|sud·den·ly|adverb
+surprisingly|sur·pris·ing·ly|adverb
+suspiciously|sus·pi·cious·ly|adverb
+sweetly|sweet·ly|adverb
+swiftly|swift·ly|adverb
+sympathetically|sym·pa·thet·i·cal·ly|adverb
+tenderly|ten·der·ly|adverb
+tensely|tense·ly|adverb
+terribly|ter·ri·bly|adverb
+thankfully|thank·ful·ly|adverb
+thoroughly|thor·ough·ly|adverb
+thoughtfully|thought·ful·ly|adverb
+tightly|tight·ly|adverb
+tomorrow|to·mor·row|noun.adverb
+too|too|adverb
+tremendously|tre·men·dous·ly|adverb
+triumphantly|tri·um·phant·ly|adverb
+truly|tru·ly|adverb
+truthfully|truth·ful·ly|adverb
+ultimately|ul·ti·mate·ly|adverb
+unabashedly|un·a·bashed·ly|adverb
+unaccountably|un·ac·count·a·bly|adverb
+unbearably|un·bear·a·bly|adverb
+unethically|un·eth·i·cal·ly|adverb
+unexpectedly|un·ex·pec·ted·ly|adverb
+unfortunately|un·for·tu·nate·ly|adverb
+unimpressively|un·im·pres·sive·ly|adverb
+unnaturally|un·nat·u·ral·ly|adverb
+unnecessarily|un·nec·es·sar·i·ly|adverb
+utterly|ut·ter·ly|adverb
+upbeat|up·beat|noun.positive adjective
+upliftingly|up·lift·ing·ly|adverb
+upright|up·right|positive adjective.adverb.noun.transitive verb
+upward|up·ward|positive adjective.adverb
+upwardly|up·ward·ly|adverb
+urgently|ur·gent·ly|adverb
+usefully|use·ful·ly|adverb
+uselessly|use·less·ly|adverb
+usually|u·su·al·ly|adverb
+vacantly|va·cant·ly|adverb
+vaguely|vague·ly|adverb
+vainly|vain·ly|adverb
+valiantly|val·iant·ly|adverb
+vastly|vast·ly|adverb
+verbally|ver·bal·ly|adverb
+very|ver·y|adverb.positive adjective
+viciously|vi·cious·ly|adverb
+victoriously|vic·to·ri·ous·ly|adverb
+violently|vi·o·lent·ly|adverb
+vivaciously|vi·va·cious·ly|adverb
+voluntarily|vol·un·tar·i·ly|adverb
+warmly|warm·ly|adverb
+weakly|weak·ly|positive adjective.adverb
+wearily|wea·ri·ly|adverb
+well|well|adverb.positive adjective.interjection.noun.verb (usu participle)
+wetly|wet·ly|adverb
+wholly|whol·ly|adverb
+wildly|wild·ly|adverb
+willfully|will·ful·ly|adverb
+wisely|wise·ly|adverb
+woefully|woe·ful·ly|adverb
+wonderfully|won·der·ful·ly|adverb
+worriedly|wor·ried·ly|adverb
+wrongly|wrong·ly|adverb
+yawningly|yawn·ing·ly|adverb
+yearly|year·ly|positive adjective.adverb.noun
+yearningly|yearn·ing·ly|adverb
+yesterday|yes·ter·day|noun.adverb
+yieldingly|yield·ing·ly|adverb
+youthfully|youth·ful·ly|adverb
+zealously|zeal·ous·ly|adverb
+zestfully|zest·ful·ly|adverb
+BC|be·cause|conjunction
+and|and|conjunction.noun
+or|or|conjunction
+nor|nor|noun.conjunction
+but|but|conjunction.preposition.adverb.noun
+for|for|noun.conjunction
+yet|yet|conjunction.adverb
+so|so|adverb.conjunction.pronoun.interjection
+because|be·cause|conjunction
+to|to|preposition.adverb
+of|of|preposition
+in|in|preposition.adverb.noun.positive adjective.transitive verb
+on|on|preposition.adverb
+with|with|preposition
+at|at|preposition
+by|by|preposition
+from|from|preposition
+up|up|preposition
+about|a·bout|preposition.adverb.positive adjective
+into|in·to|preposition
+over|over|preposition.adverb.noun.comparative adjective
+after|af·ter|preposition.adverb.conjunction.comparative adjective
+beneath|be·neath|preposition.adverb
+under|un·der|preposition.adverb.comparative adjective
+above|a·bove|preposition.adverb.noun.positive adjective
+IRL|in·real·life|preposition
+B4|be·fore|preposition
+across|a·cross|preposition.adverb.positive adjective
+against|a·gainst|preposition
+along|a·long|preposition.adverb
+among|a·mong|preposition
+around|a·round|preposition.adverb
+as|as|preposition
+before|be·fore|conjunction.preposition.adverb
+behind|be·hind|preposition.adverb.noun.positive adjective
+below|be·low|preposition.adverb
+between|be·tween|preposition.adverb
+beyond|be·yond|preposition.adverb.noun
+beside|be·side|preposition.adverb
+besides|be·sides|preposition.adverb
+down|down|noun.preposition
+during|dur·ing|preposition.gerund
+except|ex·cept|preposition.conjunction.transitive verb.intransitive verb.verb (usu participle)
+inside|in·side|noun.preposition.positive adjective.adverb
+like|like|positive adjective.preposition.adverb.conjunction.noun.transitive verb.verb (usu participle)
+near|near|preposition.adverb.verb (usu participle).noun.positive adjective
+off|off|preposition.adverb.positive adjective.noun
+out|out|adverb.preposition.interjection.noun.transitive verb.intransitive verb.verb (usu participle).positive adjective
+outside|out·side|preposition.positive adjective.adverb.noun
+past|past|noun.preposition
+round|round|positive adjective.noun.preposition.adverb.verb (usu participle).transitive verb
+since|since|preposition.conjunction.adverb
+than|than|conjunction.preposition
+through|through|preposition.positive adjective.adverb
+till|till|noun.preposition
+toward|to·ward|positive adjective.preposition
+towards|to·wards|preposition
+underneath|un·der·neath|preposition.adverb.positive adjective.noun
+unless|un·less|conjunction.preposition
+until|un·til|conjunction.preposition
+upon|up·on|preposition
+within|with·in|preposition.adverb
+without|with·out|preposition.adverb.conjunction
+hi|hi|interjection
+haha|ha·ha|interjection
+hehe|he·he|interjection
+hihi|hi·hi|interjection
+oh|oh|interjection
+ah|ah|interjection
+wow|wow|interjection.noun.transitive verb.verb (usu participle)
+darn|darn|noun.interjection
+gosh|gosh|interjection
+golly|gol·ly|interjection.noun.verb (usu participle)
+gee|gee|noun.interjection
+ow|ow|interjection
+ouch|ouch|interjection.noun
+yikes|yikes|interjection
+yippee|yippee|interjection
+hooray|hoo·ray|interjection.noun.verb (usu participle)
+boo|boo|interjection.verb (usu participle).noun
+whew|whew|interjection
+BRB|be·right·back|interjection
+BTW|by·the·way|interjection
+B4N|bye·for·now|interjection
+BCNU|be·seeing·you|interjection
+CYA|see·ya|interjection
+DBEYR|don't·believe·eve·ry·thing·you·read|interjection
+DILLIGAS|dill·i·gas|interjection
+FWIW|for·what·it's·worth|interjection
+GR8|great|interjection
+ILY|i·love·you|interjection
+IMHO|i·mho|interjection
+JK|joke|noun.interjection
+L8R|lat·er|interjection
+LMAO|le·mao|interjection
+LOL|lol|interjection
+LOLZ|lols|interjection
+LYLAS|love·you·like·a·sis·ter|interjection
+MHOTY|my·hat·is·off·to·you|interjection
+NIMBY|not·in·my·back·yard|interjection
+NP|no·prob·lem|interjection
+NUB|nubb|noun.interjection
+OIC|oh·i·see|interjection
+OMG|oh·my·god|interjection
+OT|off·top·ic|positive adjective.interjection
+RBTL|read·be·tween·the·lines|interjection
+THX|thanks|interjection
+SH|shit·hap·pens|interjection
+SITD|still·in·the·dark|interjection
+SOL|shit·out·of·luck|interjection
+STBY|sucks·to·be·you|interjection
+SWAK|seal·ed·with·a·kiss|interjection
+RTM|r·t·m|interjection
+RTFM|r·t·f·m|interjection
+TMI|t·m·iv|interjection
+TTYL|talk·to·you·lat·er|interjection
+TYVM|thank·you·very·much|interjection
+VBG|very·big·grin|interjection
+WEG|wick·ed·e·vil·grin|interjection
+WTF|what·the·fuck|interjection
+WYWH|wish·you·were·here|interjection
+XOXO|hugs·and·kiss·es|interjection
+CBA|c·b·a|interjection
+143|i·love·you|interjection
+4EAE|for·e·ver·and·e·ver|interjection
+ADN|an·y·day·now|interjection
+AFAIK|as·far·as·i·know|interjection
+AFK|a·way·from·key·board|interjection.preposition
+ATM|at·the·mo·ment|interjection
+DWBH|don't·wor·ry·be·hap·py|interjection
+FTL|for·the·lose|interjection
+FTW|for·the·win|interjection
+FYEO|for·your·eyes·on·ly|interjection
+FYI|for·your·in·for·ma·tion|interjection
+GLHF|good·luck·have·fun|interjection
+HAK|hugs·and·kiss·es|interjection
+hand|hand|noun
+IDK|i·don't·know|interjection
+IMO|i·mo|interjection
+FFS|for·fuck·sake|interjection
+J4F|just·for·fun|interjection
+kk|o·k|interjection
+k|o·k|interjection
+oks|o·ks|interjection
+LMK|let·me·know|interjection
+NVM|ne·ver·mind|interjection
+NMU|not·much·you|interjection
+ORLY|oh·real·ly|interjection
+PLS|please|interjection
+PLZ|please|interjection
+PTB|please·text·back|interjection
+QQ|cry·ing|interjection
+ROFL|roll·ing·on·the·floor·laugh·ing|interjection
+SRSLY|se·ri·ous·ly|interjection
+TIA|thanks·in·ad·vance|interjection
+TMB|tweet·me·back|interjection
+TY|thank·you|interjection
+WTH|what·the·heck|interjection
+YW|you're·welcome|interjection
+ZOMG|oh·my·god|interjection
+STFU|shut·the·fuck·up|interjection
+noob|noob|interjection.noun
+n00b|noob|interjection.noun
+ATK|at·tack|noun.interjection
+TGIF|thank·god·it's·fri·day|interjection
+I|i|pronoun
+mine|mine|noun.pronoun
+me|me|pronoun
+you|you|pronoun.noun
+yours|yours|pronoun
+he|he|pronoun
+his|his|definite article.pronoun
+him|him|noun
+she|she|pronoun.noun
+hers|hers|pronoun
+her|her|pronoun.definite article.comparative adjective
+it|it|pronoun
+its|its|definite article.pronoun
+we|we|pronoun
+ours|ours|pronoun
+us|us|pronoun
+they|they|pronoun
+theirs|theirs|pronoun
+them|them|pronoun.definite article
+who|who|noun.pronoun
+whose|whose|definite article.pronoun
+whom|whom|pronoun
+which|which|definite article.pronoun
+what|what|definite article.adverb.pronoun.interjection
+that|that|definite article.conjunction.adverb.pronoun
+whoever|who·ev·er|pronoun.comparative adjective
+whomever|whom·ev·er|pronoun.comparative adjective
+whichever|which·ev·er|definite article.comparative adjective.pronoun
+this|this|definite article.adverb.pronoun
+these|these|definite article.pronoun
+those|those|definite article.pronoun
+all|all|definite article.adverb.noun.positive adjective.pronoun
+another|an·oth·er|definite article.comparative adjective.pronoun
+any|an·y|definite article.adverb.positive adjective.pronoun
+anybody|an·y·bod·y|pronoun.noun
+anyone|an·y·one|pronoun
+anything|an·y·thing|pronoun.noun.adverb.gerund
+both|both|definite article.conjunction.positive adjective.pronoun
+each|each|definite article.adverb.positive adjective.pronoun
+either|ei·ther|definite article.conjunction.adverb.comparative adjective.pronoun
+everybody|eve·ry·bod·y|pronoun
+everyone|eve·ry·one|pronoun
+everything|eve·ry·thing|pronoun.gerund
+many|man·y|definite article.noun.positive adjective.pronoun
+neither|nei·ther|definite article.conjunction.adverb.comparative adjective.pronoun
+nobody|no·bod·y|pronoun.noun
+none|none|pronoun.noun.adverb
+one|one|definite article.pronoun.noun.positive adjective
+others|oth·ers|definite article.pronoun.adverb.positive adjective
+some|some|definite article.adverb.positive adjective.pronoun
+somebody|some·bod·y|pronoun.noun
+someone|some·one|pronoun.noun
+such|such|definite article.adverb.positive adjective.pronoun
+myself|my·self|pronoun
+yourself|your·self|pronoun
+himself|him·self|pronoun
+herself|her·self|pronoun
+itself|it·self|pronoun
+ourselves|our·selves|pronoun
+themselves|them·selves|pronoun
