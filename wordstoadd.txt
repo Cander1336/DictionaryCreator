@@ -1,0 +1,8 @@
+TODO: words to add to dicitonary
+
+"good", "better", "best",
+"bad", "worse", "worst",
+"old", "elder", "eldest" (in certain contexts only; the adjective is usually regular)
+"far", "farther/further", "farthest/furthest"
+"many", "more", "most" (usually regarded as an adverb or determiner)
+"little", "less", "least" (ditto);
