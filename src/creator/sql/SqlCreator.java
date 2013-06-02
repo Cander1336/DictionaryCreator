@@ -12,27 +12,62 @@ public class SqlCreator {
 	public static void main(String[] args) throws IOException {  
 		double startTime = System.currentTimeMillis();	
 		
-/*		//create SQL INSERT's for table word
-		Scanner reader = new Scanner(new File("dictionary-full.txt"));
+		//create SQL INSERT's for table word
+		Scanner reader = new Scanner(new File("dictionary-full_separated_partofspeech.txt"));
 		BufferedWriter writer = new BufferedWriter(new FileWriter(new File("deletebyhaiku_db_sql_word_dictionary_full.txt")));
 		
+		ArrayList<String> partofspeechs = new ArrayList<String>();
+		partofspeechs.add("noun");
+		partofspeechs.add("plural noun");
+		partofspeechs.add("noun phrase");
+		partofspeechs.add("verb (usu participle)");
+		partofspeechs.add("gerund");
+		partofspeechs.add("transitive verb");
+		partofspeechs.add("intransitive verb");
+		partofspeechs.add("singular verb");
+		partofspeechs.add("past tense");
+		partofspeechs.add("positive adjective");
+		partofspeechs.add("comparative adjective");
+		partofspeechs.add("superlative adjective");
+		partofspeechs.add("adverb");
+		partofspeechs.add("conjunction");
+		partofspeechs.add("preposition");
+		partofspeechs.add("interjection");
+		partofspeechs.add("pronoun");
+		partofspeechs.add("definite article");
+		partofspeechs.add("indefinite article");
+		partofspeechs.add("nominative");
+		partofspeechs.add("pronoun + verb (usu participle)");
+		
+		int word_id = 1;
 		String line;
 		String text;
 		String syllables;
 		for (int i = 1; reader.hasNextLine(); i++) {
 			line = reader.nextLine();
 			text = line.substring(0, line.indexOf("|"));
+			int position;
+			if ((position = text.indexOf("'")) != -1)
+				text = text.substring(0, position) + "'" + text.substring(position);
+			
 			syllables = line.substring(line.indexOf("|")+1, line.lastIndexOf("|"));
 			
-			//CREATE TABLE Word(_id INTEGER PRIMARY KEY, text TEXT, syllables TEXT);
-			writer.write("INSERT INTO word VALUES(" + i + ", '" + text + "', '" + syllables + "');");
-			writer.newLine();
+			if ((position = syllables.indexOf("'")) != -1)
+				syllables = syllables.substring(0, position) + "'" + syllables.substring(position);
+			
+			String[] partofspeeches = line.substring(line.lastIndexOf("|")+1).split("\\.");
+			
+			for (int j = 0; j < partofspeeches.length; j++) { //TODO: FIX APOSTROPHES
+//				CREATE TABLE word(_id INTEGER PRIMARY KEY, text TEXT, syllables TEXT, partofspeechid INTEGER, FOREIGN KEY(parofspeechid) REFERENCES partofspeech(_id));
+				writer.write("INSERT INTO word VALUES(" + word_id++ + ", '" + text + "', '" + syllables + "', " + (partofspeechs.indexOf(partofspeeches[j])+1) + ");");
+				writer.newLine();
+			}
+			
+
 		}
-*/
 		
-/*		
-		//create SQL INSERT's for table theme_word
-		Scanner reader = new Scanner(new File("dictionary-full.txt"));
+/*		//create SQL INSERT's for table theme_word
+		Scanner reader = new Scanner(new File("dictionary-full_separated_partofspeech.txt"));
 		Scanner allReader = new Scanner(new File("theme_all_manual.txt"));
 		Scanner artReader = new Scanner(new File("theme_art_manual.txt"));
 		Scanner bodyReader = new Scanner(new File("theme_body_manual.txt"));
@@ -164,50 +199,8 @@ public class SqlCreator {
 					break;
 				}
 		
-		}
-*/
-		//create SQL INSERT's for table word_partofspeech
-		Scanner reader = new Scanner(new File("dictionary-full.txt"));
-		BufferedWriter writer = new BufferedWriter(new FileWriter(new File("deletebyhaiku_db_sql_word_partofspeech_dictionary_full.txt")));
-
-		ArrayList<String> partofspeechs = new ArrayList<String>();
-		partofspeechs.add("noun");
-		partofspeechs.add("plural noun");
-		partofspeechs.add("noun phrase");
-		partofspeechs.add("verb (usu participle)");
-		partofspeechs.add("gerund");
-		partofspeechs.add("transitive verb");
-		partofspeechs.add("intransitive verb");
-		partofspeechs.add("singular verb");
-		partofspeechs.add("past tense");
-		partofspeechs.add("positive adjective");
-		partofspeechs.add("comparative adjective");
-		partofspeechs.add("superlative adjective");
-		partofspeechs.add("adverb");
-		partofspeechs.add("conjunction");
-		partofspeechs.add("preposition");
-		partofspeechs.add("interjection");
-		partofspeechs.add("pronoun");
-		partofspeechs.add("definite article");
-		partofspeechs.add("indefinite article");
-		partofspeechs.add("nominative");
-		partofspeechs.add("pronoun + verb (usu participle)");
-
-		int word_partofspeech_id = 1;
-		String line;
-		for (int wordid = 1; reader.hasNextLine(); wordid++) {
-			line = reader.nextLine();
-			String[] text = line.substring(line.lastIndexOf("|")+1).split("\\.");
-			
-			//CREATE TABLE word_partofspeech(_id INTEGER PRIMARY KEY, wordid INTEGER, partofspeechid INTEGER, FOREIGN KEY(wordid) REFERENCES word(_id), FOREIGN KEY(partofspeechid) REFERENCES partofspeech(_id));
-			//INSERT INTO word_partofspeech(1, 233, 12)				
-			
-			for (String pos : text) {	
-					writer.write("INSERT INTO word_partofspeech VALUES(" + word_partofspeech_id++ + ", " + wordid + ", " + (partofspeechs.indexOf(pos)+1) + ");");
-					writer.newLine();
-			}
-		}
-		
+		}*/
+	
 		reader.close();
 		writer.close();
 		System.out.println("SqlCreator execution time: " + ((System.currentTimeMillis() - startTime) / 1000) + " seconds");
